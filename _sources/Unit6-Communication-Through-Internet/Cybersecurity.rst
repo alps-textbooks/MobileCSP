@@ -49,13 +49,13 @@ Introduction and Goals
     
     <p>Passwords are currently the primary way to protect devices and information from unauthorized access. A <span class="hover vocab yui-wk-div" data-id='strong password'>strong password</span> is something that is easy for a user to remember but would be difficult for someone else to guess based on knowledge of that user.  In Unit 5, we saw that it is very difficult to guess a long complex password (which can be tested in sites such as  <a href="https://www.security.org/how-secure-is-my-password/" target="_blank">https://www.security.org/how-secure-is-my-password/</a>). Luckily, brute-force password cracking algorithms take exponential time. However, passwords can also be compromised (stolen) through <span class="hover vocab yui-wk-div" data-id='phishing'>phishing</span> attacks and data breaches. </p>
     
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>describe various threats to cybersecurity</li>
 	<li>explain the shortcomings of relying on passwords to protect devices and digital information</li>
 	<li>describe ways to combat <span class="hover vocab yui-wk-div" data-id="malware">malware</span> and other cybersecurity attacks</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="virus">virus</span>, <span class="hover vocab yui-wk-div" data-id="worm">worm</span>, <span class="hover vocab yui-wk-div" data-id="Trojan horse">Trojan horse</span>, and <span class="hover vocab yui-wk-div" data-id="phishing">phishing</span> while describing app features and User Interface with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

@@ -51,12 +51,12 @@ Introduction and Goals
         <td valign="top"><iframe allowfullscreen="" frameborder="0" height="275" width="315" src="https://www.youtube.com/embed/0eKVizvYSUQ"></iframe>
         </td>
         <td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			<ul>
 			<li>identify the strengths and weaknesses of the <span class="hover vocab yui-wk-div" data-id="linear or sequential search">sequential </span> and <span class="hover vocab yui-wk-div" data-id="binary search">binary search </span> algorithms</li>
 			<li>determine the number of steps required to find a value in a data set</li>
 			</ul>
-			<div><b>Language Objectives:</b>&nbspI will be able to</div>
+			<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			<ul>
 			<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="binary search">binary search </span> and <span class="hover vocab yui-wk-div" data-id="linear or sequential search">sequential search</span> while considering algorithms for finding a value in a data set, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 			</ul>

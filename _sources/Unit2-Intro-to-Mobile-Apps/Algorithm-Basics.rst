@@ -56,12 +56,12 @@ Introduction and Goals
     <p>In <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Mazes-Algorithms-and-Programs.html" target="_blank">Lesson 1.2</a> we introduced the term <b><i><span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span></i></b> and defined it as a <u>step-by-step procedure</u> of <u>precise instructions</u> that performs some calculation or computation. Algorithms are at the heart of computer science. Algorithms, expressed in computer code and interpreted by the computer, are what make our computers such powerful and adaptable machines. An amazing fact that has been proved by computer scientists is that all algorithms can be constructed by using just these three control structures.  In other words, any <span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span> that you would like to write to solve a problem can be built by a combination of <span class="hover vocab yui-wk-div" data-id='sequence'>sequence</span>, <span class="hover vocab yui-wk-div" data-id='selection'>selection</span>, and <span class="hover vocab yui-wk-div" data-id='repetition'>repetition</span>.
 	</p>
     
-    <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+    <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
     <ul>
     <li>express an <span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span> that uses <span class="hover vocab yui-wk-div" data-id='sequence'>sequencing</span>, <span class="hover vocab yui-wk-div" data-id='selection'>selection</span> and <span class="hover vocab yui-wk-div" data-id='iteration'>iteration</span> without using a programming language</li>
     <li>create algorithms, write conditional statements, and write iteration statements</li>
     </ul>
-    <div><b>Language Objectives:</b>&nbspI will be able to</div>
+    <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
     <ul>
     <li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span>, <span class="hover vocab yui-wk-div" data-id='sequence'>sequence</span>, <span class="hover vocab yui-wk-div" data-id='selection'>selection</span>, <span class="hover vocab yui-wk-div" data-id='repetition'>repetition</span>, and <span class="hover vocab yui-wk-div" data-id='pseudocode'>pseudocode</span>, while describing a problem solving process, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
     <li>describe the relationship between the target vocabulary words for the POGIL activity and portfolio reflection questions with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

@@ -51,13 +51,13 @@ Introduction and Goals
     (<a href="https://www.teachertube.com/video/mobile-csp-map-tour-preview-revised-476365" target="_blank">TeacherTube Version</a>)
     </td>
     <td valign=top>
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>use the <i>Map</i>, <i>ListPicker</i>, and <i>WebViewer</i> UI components in MIT App Inventor</li>
 		<li>use <span class="hover vocab yui-wk-div" data-id='list'>lists</span> to store and access destinations on the map</li>
 		<li>use an <span class="hover vocab yui-wk-div" data-id='API'>API</span> (Application Programming Interface) to display Wikipedia pages of destinations</li>
 		</ul>
-        <div><b>Language Objectives:</b>&nbspI will be able to</div>
+        <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id=list>list</span>, <span class="hover vocab yui-wk-div" data-id=index>index</span>, <span class="hover vocab yui-wk-div" data-id=string>string</span>, <span class="hover vocab yui-wk-div" data-id=concatenation>concatenation</span>, and <span class="hover vocab yui-wk-div" data-id=API>API</span> while describing app features and UI components, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 		</ul>

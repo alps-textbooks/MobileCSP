@@ -53,12 +53,12 @@ Introduction and Goals
     same.
     </p>
 	<p>
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>use <span class="hover vocab yui-wk-div" data-id="modular arithmetic">modular arithmetic</span> to produce a remainder, which can be used to create pseudorandom numbers</li>
 		<li>recognize the difference between random and pseduorandom numbers, and the implciations of this difference on real world applications</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>examine a series of numbers and discuss whether or not they look random</li> 
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="PRNG">random number generator</span>, <span class="hover vocab yui-wk-div" data-id="modular arithmetic">modular arithmetic</span>, and <span class="hover vocab yui-wk-div" data-id="mod operator">mod operator</span> while considering how a computer models randomness, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

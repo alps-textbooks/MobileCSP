@@ -43,13 +43,13 @@ Introduction and Goals
     are in order.  <i>Sorting</i> is the process of putting objects in order. Sorting
     algorithms have been studied extensively by computer scientists.</p>
     
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>apply sorting algorithms to given data sets</li>
 	<li>identify the strengths and weaknesses of the bubble sort, merge sort, and bucket sort algorithms</li>
 	<li>describe the difference between comparison sorts such as bubble sort and merge sort, and non-comparison sorts such as bucket sort.</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as bubble sort, merge sort, bucket sort, and radix sort, while considering algorithms for sorting data sets, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

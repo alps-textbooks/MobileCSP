@@ -45,13 +45,13 @@ Introduction and Goals
 		(<a href="https://teachertube.com/video/lightsoff-tutorial-preview-476362" target="_blank">Teacher Tube version</a>) 
     </td>
     <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>use the <i>Canvas</i> and <i>ImageSprite</i> components in AppInventor</li>
 		<li>further develop an understanding of procedures and procedural abstraction</li>
 		<li>use timing, animation, and randomness as part of an event-driven program</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>discuss in detail the benefits of writing procedures in programming</li>
 		<li>describe the functionality of an app using key vocabulary such as event, timer, and sprite, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from previous lessons</li>

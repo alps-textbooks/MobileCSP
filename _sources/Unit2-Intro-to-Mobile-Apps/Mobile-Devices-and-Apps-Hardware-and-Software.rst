@@ -51,12 +51,12 @@ Introduction and Goals
 
     <p>This lesson focuses on the basic <span class="hover vocab yui-wk-div" data-id='hardware'>hardware</span> and <span class="hover vocab yui-wk-div" data-id='software'>software</span> that work together to enable our mobile devices to run the amazing apps that we'll be building. As beginning programmers, it's important that we understand how the programs we write are interpreted and processed by the <span class="hover vocab yui-wk-div" data-id='computer'>computer</span>.
 	</p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
     <ul>
     <li>explain how <span class="hover vocab yui-wk-div" data-id='data'>data</span> can be supported using <span class="hover vocab yui-wk-div" data-id='bit'>bits</span></li>
     <li>explain how computing devices work together in a <span class="hover vocab yui-wk-div" data-id='network'>network</span></li>
     </ul>
-    <div><b>Language Objectives:</b>&nbspI will be able to</div>
+    <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
     <ul>
     <li>describe the relationship between <span class="hover vocab yui-wk-div" data-id='data'>data</span> and <span class="hover vocab yui-wk-div" data-id='bit'>bits</span> using target vocabulary, supporting details and examples</li>
     <li>describe the functionality of <span class="hover vocab yui-wk-div" data-id='hardware'>hardware</span> and <span class="hover vocab yui-wk-div" data-id='software'>software</span> components using target vocabulary, supporting details and examples</li>

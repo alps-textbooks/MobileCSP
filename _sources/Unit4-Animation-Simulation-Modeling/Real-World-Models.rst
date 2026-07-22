@@ -44,12 +44,12 @@ Introduction and Goals
 	<li>consider how the model can be used for making and testing hypotheses</li>
 	</ul>
 	<p>
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>describe the benefits of creating models and simulations</li>
 		<li>compare and contrast models to identify the strengths and weaknesses of each</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>make hypotheses and predict outcomes of a simulation as well as describe experiment results</li>
 		<li>use target vocabulary, such as model, simulation, and hypothesis to discuss how computers can mimic the real world, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

@@ -49,13 +49,13 @@ Introduction and Goals
         <td valign="top"><iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/PWKGUzdiP44" width="275"></iframe>
         (<a href="http://www.teachertube.com/video/paintpot2preview-347830" target="_blank">TeacherTube Version</a>)</td>
         <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
           <ul>
           <li>follow a tutorial to create the <i>PaintPot</i> app</li>
           <li>deepen my understanding of event-driven programming</li>
           <li>learn how to use a <span class="hover vocab yui-wk-div" data-id='variable'>variable</span> to make a program more general</li>
           </ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
 		  <li>explain the result of programming statements that include <span class="hover vocab yui-wk-div" data-id='variable'>variables</span> and <span class="hover vocab yui-wk-div" data-id='assignment'>assignments</span></li>
 		  <li>describe how a global <span class="hover vocab yui-wk-div" data-id='variable'>variable</span> is an abstraction</li>

@@ -45,12 +45,12 @@ Introduction and Goals
     <tr>
 		<td valign="top"> <img class="yui-img" src="../_static/assets/img/LightsOutPart2.png" height="185" width="400px"/> </td>
         <td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			  <ul>
 			  <li>iteratively develop a new app using Design Thinking</li>
 			  <li>use programming concepts such as variables and conditional <i>if</i> blocks in more advanced ways to enhance an app's functionality</li>
 			  </ul>
-			  <div><b>Language Objectives:</b>&nbspI will be able to</div>
+			  <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			  <ul>
 			  <li>discuss how code changes will produce desired outputs in my app</li>
 			  <li>describe the design process of an app using key vocabulary such as empathize, ideate, and prototype, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from previous lessons</li>			

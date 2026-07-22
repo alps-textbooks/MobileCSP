@@ -47,13 +47,13 @@ Introduction and Goals
     <p>
     <p>We've been using algorithms to build our apps and we've learned about algorithms for solving certain types of problems, such as searching and sorting problems.</p>
     <p>It may seem that no matter what the problem, we can find an algorithm to solve it.  But that is not true.  And in this lesson we want to look at some problems that algorithms cannot solve or cannot solve efficiently.</p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>differentiate between problems that have <span class="hover vocab yui-wk-div" data-id="reasonable time">reasonable</span> solutions and those that do not </li>
 	<li>discuss <span class="hover vocab yui-wk-div" data-id="heuristic algorithm">heuristic</span> solutions when an optimal solution is not possible</li>
 	<li>explain how <span class="hover vocab yui-wk-div" data-id="intractable problems">intractability</span> can be used to solve problems such as password security</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="reasonable time">reasonable time</span>, <span class="hover vocab yui-wk-div" data-id="unreasonable time">unreasonable time</span>, <span class="hover vocab yui-wk-div" data-id="decidable problems">decidable problems</span>, <span class="hover vocab yui-wk-div" data-id="intractable problems">intractable problems</span> and <span class="hover vocab yui-wk-div" data-id="intractable problems">intractable problem</span> while discussing algorithms, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

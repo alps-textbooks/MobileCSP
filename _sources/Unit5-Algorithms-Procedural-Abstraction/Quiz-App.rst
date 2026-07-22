@@ -53,13 +53,13 @@ Introduction and Goals
 		<!-- (&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;Teacher Tube version&lt;/a&gt;)-->
         </td>
         <td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			<ul>
 			<li>navigate a list using an index variable</li>
 			<li>perform operations on a list, such as selecting items and checking for the end</li>
 			<li>use parallel lists to organize data</li>
 			</ul>
-			<div><b>Language Objectives:</b>&nbspI will be able to</div>
+			<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			<ul>
 			<li>explain how items in parallel lists are related to each other</li>
 			<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="index">index </span> and <span class="hover vocab yui-wk-div" data-id="parallel lists">parallel list </span>, while describing app features and User Interface with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

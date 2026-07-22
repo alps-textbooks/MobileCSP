@@ -41,13 +41,13 @@ Introduction and Goals
     <tr><td valign="top" colspan=2><p>You’ve been introduced to space travel, <span class="hover vocab yui-wk-div" data-id="artificial intelligence (AI)">artificial intelligence</span>, and the <span class="hover vocab yui-wk-div" data-id="Alexa">Alexa intelligent agent</span>. Now, let’s take a deeper dive into what daily life is really like in space. In this lesson, you will become more familiar with the daily activities of astronauts and space tourists/travelers, and learn how these activities are all affected by <span class="hover vocab yui-wk-div" data-id="microgravity">microgravity</span>. These new facts will become a <span class="hover vocab yui-wk-div" data-id="list">list</span> -- very useful structures in programming that can store a collection of related data. You will program an Alexa skill to access various items from your list in response to a voice command, or <span class="hover vocab yui-wk-div" data-id="utterances">utterance</span>.</p></td></tr>
     <tr><td valign="top"></td>
     <td valign="top">
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
 	   <li>Recognize and give examples of the effects of <span class="hover vocab yui-wk-div" data-id="microgravity">microgravity</span> on peoples’ daily activities in space</li>
 		<li> Create and add items to a <span class="hover vocab yui-wk-div" data-id="list">list</span> </li>
 		<li>Select a random item from a <span class="hover vocab yui-wk-div" data-id="list">list</span> to be spoken as output</li>
        </ul>
-       <div><b>Language Objectives:</b>&nbspI will be able to</div>
+       <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
 		<li>Explain the effects of microgravity on both daily activities and scientific experiments in space using target vocabulary such as microgravity out loud and in writing, with the support of the vocabulary notes from this lesson.</li>
 		<li>Use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="utterances">utterance</span>, <span class="hover vocab yui-wk-div" data-id="intent">intent</span>, <span class="hover vocab yui-wk-div" data-id="invocation">invocation</span>, and <span class="hover vocab yui-wk-div" data-id="endpoint function">endpoint function</span>, to describe how an Alexa skill can respond to a request out loud and in writing, with the support of the vocabulary notes from this lesson.</li>

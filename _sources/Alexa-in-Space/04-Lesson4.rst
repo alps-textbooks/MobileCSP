@@ -43,7 +43,7 @@ Introduction and Goals
 	</td></tr>
     <tr><td valign="top"></td>
     <td valign="top">
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
 	   <li>Use multiple intents</li>
 		<li>Use <span class="hover vocab yui-wk-div" data-id="slot">slots</span></li>
@@ -52,7 +52,7 @@ Introduction and Goals
 		<li>Perform math calculations using <span class="hover vocab yui-wk-div" data-id="Alexa">Alexa</span></li>
        </ul>
 	   
-       <div><b>Language Objectives:</b>&nbspI will be able to</div>
+       <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
 		<li>Explain how <span class="hover vocab yui-wk-div" data-id="Alexa">Alexa</span> uses variables to store data</li>
 		<li>Explain how a <span class="hover vocab yui-wk-div" data-id="parameters">parameter</span> can be useful in a procedure</li>

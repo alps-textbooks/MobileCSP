@@ -43,12 +43,12 @@ Introduction and Goals
 
     <div id="bogus-div">
     <p></p>
-    </div>	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+    </div>	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>identify and correct errors in a program</li>
 	<li>explain the difference between <span class="hover vocab yui-wk-div" data-id="syntax error">syntax errors</span> and <span class="hover vocab yui-wk-div" data-id="semantic error">semantic errors</span></li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="syntax error">syntax error</span>, <span class="hover vocab yui-wk-div" data-id="semantic error">semantic error</span>, and <span class="hover vocab yui-wk-div" data-id="run-time error">run-time error</span> while fixing errors in an app, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

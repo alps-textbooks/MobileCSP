@@ -78,13 +78,13 @@ Introduction and Goals
       However, it's important that you understand the basic ideas around how it works and are able to see that current
       cryptographic systems can be trusted to secure our private transactions on the Internet.
     </p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>explain the <span class="hover vocab yui-wk-div" data-id='diffie-hellman'>Diffie-Hellman</span> key exchange algorithm using the shared color analogy</li>
 	<li>describe how modular arithmetic forms the basis for <span class="hover vocab yui-wk-div" data-id='rsa'>RSA</span> public key encryption</li>
 	<li>describe how encryption and <span class="hover vocab yui-wk-div" data-id='digital certificate'>digital certificates</span> work together to secure the Internet</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>explain how <span class="hover vocab yui-wk-div" data-id="public key cryptography">public key cryptography</span> is not symmetric</li>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="asymmetric cipher">asymmetric cipher</span>, <span class="hover vocab yui-wk-div" data-id="https">HTTPS</span>, and <span class="hover vocab yui-wk-div" data-id="certificate authority">certificate authority</span> while describing modern cryptography, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

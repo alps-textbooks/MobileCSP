@@ -45,7 +45,7 @@ Introduction and Goals
 
     <p>The <span class="hover vocab yui-wk-div" data-id='Internet'>Internet</span> and the <span class="hover vocab yui-wk-div" data-id='World Wide Web'>World Wide Web</span> (WWW) have had a tremendous influence on our world and our lives.  Yet, most people do not really understand what the <span class="hover vocab yui-wk-div" data-id='Internet'>Internet</span> is and how it works.   This lesson provides a high-level overview of some key concepts and clarifies the
     difference between the <span class="hover vocab yui-wk-div" data-id='Internet'>Internet</span> and the <span class="hover vocab yui-wk-div" data-id='World Wide Web'>World Wide Web</span>. Lessons later in the course will go into greater detail in explaining how the <span class="hover vocab yui-wk-div" data-id='Internet'>Internet</span> works and explore cybersecurity.</p>
-    <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+    <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
     <ul>
     <li>explain how computing innovations are developed by groups of people</li>
     <li>demonstrate effective interpersonal skills during collaboration</li>
@@ -54,7 +54,7 @@ Introduction and Goals
     <li>explain how a computing innovation can have an impact beyond its intended purpose</li>
     <li>describe the risks to privacy from collecting and storing personal data on a computer system</li>
     </ul>
-    <div><b>Language Objectives:</b>&nbspI will be able to</div>
+    <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
     <ul>
     <li>describe the relationship between the <span class="hover vocab yui-wk-div" data-id='Internet'>Internet</span> and the <span class="hover vocab yui-wk-div" data-id='World Wide Web'>World Wide Web</span> using target vocabulary, supporting details and examples</li>
     <li>describe key characteristics, benefits and drawbacks of computing innovations using target vocabulary, supporting details and examples</li>

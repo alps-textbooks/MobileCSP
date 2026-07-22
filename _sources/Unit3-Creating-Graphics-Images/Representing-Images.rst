@@ -53,13 +53,13 @@ Introduction and Goals
         <td valign="top"><iframe allowfullscreen="" frameborder="0" width="265" height="320" src="https://www.youtube.com/embed/uaV2RuAJTjQ"></iframe>
         </td>
         <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
           <ul>
           <li>convert images to bits using <span class="hover vocab yui-wk-div" data-id='run length encoding'>run length encoding</span> and text to bits using <span class="hover vocab yui-wk-div" data-id='ASCII'>ASCII</span></li>
 		  <li>describe how <span class="hover vocab yui-wk-div" data-id='bit'>bits</span> can be used to represent digital data, including images, documents, and sounds</li>
 		  <li>understand that digital representations are an example of abstraction</li>
           </ul>
-          <div><b>Language Objectives:</b>&nbspI will be able to</div>
+          <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
           <ul>
 		  <li>compare and contrast <span class="hover vocab yui-wk-div" data-id='lossless compression'>lossless</span> and <span class="hover vocab yui-wk-div" data-id='lossy compression'>lossy</span> compression techniques</li>
           <li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id='pixel'>pixel</span>, <span class="hover vocab yui-wk-div" data-id='ASCII'>ASCII</span>, and <span class="hover vocab yui-wk-div" data-id='run length encoding'>run length encoding</span> while describing how images and text are stored in memory, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

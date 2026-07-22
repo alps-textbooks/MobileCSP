@@ -41,7 +41,7 @@ Introduction and Goals
     <tr><td valign="top" colspan=2><p>Description to be added</p></td></tr>
     <tr><td valign="top"></td>
     <td valign="top">
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
 	   
        </ul>

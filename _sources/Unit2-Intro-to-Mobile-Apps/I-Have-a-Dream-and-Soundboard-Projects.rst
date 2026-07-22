@@ -51,14 +51,14 @@ Introduction and Goals
          (<a href="http://www.teachertube.com/video/358487" target="_blank">Teacher Tube version</a>)
        </td>
        <td>
-          <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+          <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
           <ul>
           <li>better navigate the MIT App Inventor programming platform</li>
           <li>deepen my understanding of event-driven programming</li>
           <li>describe the functionality of a computing innovation</li>
           <li>use pair programming to improve an app</li>
           </ul>
-		  <div><b>Language Objectives:</b>&nbspI will be able to</div>
+		  <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
            <ul>
            <li>describe the functionality of an app using key vocabulary such as component, event, sensor, if/else, theme, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from previous lessons</li>
            <li>explain the advantages of collaboration when developing and improving computing innovations using supporting details and examples</li>

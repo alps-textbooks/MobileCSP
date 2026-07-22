@@ -53,12 +53,12 @@ Introduction and Goals
       After this lesson you should have a pretty good understanding of how some of your familiar applications -- web browsing,
       email, smartphone apps -- are supported by the underlying Internet hardware and software. Here is a short video called <a href="https://www.youtube.com/watch?v=ewrBalT_eBM" target="_blank">A Packet's Tale</a> to get us started on our journey.
     </p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>explain how data are sent through the Internet via <span class="hover vocab yui-wk-div" data-id="packet">packets</span></li>
 	<li>identify and describe the benefits of <span class="hover vocab yui-wk-div" data-id="fault-tolerant">fault-tolerant networks</span></li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>discuss the benefits of <span class="hover vocab yui-wk-div" data-id="packet switching">packet switching</span> and Internet abstraction layers</li>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="router">router</span>, <span class="hover vocab yui-wk-div" data-id="IP Address">IP Address</span>, <span class="hover vocab yui-wk-div" data-id="packet switching">packet switching</span>, <span class="hover vocab yui-wk-div" data-id="Scalability">scalability</span> and <span class="hover vocab yui-wk-div" data-id="fault-tolerant">fault tolerant</span> while describing how data is transported across the Internet, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

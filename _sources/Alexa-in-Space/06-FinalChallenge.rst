@@ -43,7 +43,7 @@ Introduction and Goals
 	</td></tr>
     <tr><td valign="top"></td>
     <td valign="top">
-       <div><b>Goals:</b>&nbspI will learn to</div>
+       <div><b>Goals:</b>&nbsp; I will learn to</div>
        <ul>
 		<li>Identify a challenge that space travelers may encounter related to microgravity.</li>
 		<li>Create an Alexa skill that helps space travelers manage this challenge.</li>

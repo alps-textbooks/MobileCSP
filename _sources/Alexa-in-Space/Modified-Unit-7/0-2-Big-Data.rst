@@ -50,14 +50,14 @@ Introduction and Goals
 	</tbody>
 	</table>
 	<p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>describe what information can be extracted from data</li>
 	<li>identify what qualifies as big data</li>
 	<li>describe challenges associated with processing big data sets</li>
 	<li>recognize both benefits and harms of using big data</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>discuss privacy and security concerns related to a data set</li>
 	<li>use target vocabulary, such as megabyte, gigabyte, and terabyte while describing the effects of big data, with the support of concept definitions from this lesson</li>

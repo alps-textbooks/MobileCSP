@@ -51,13 +51,13 @@ Introduction and Goals
     <tr>
 		<td valign="top"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube-nocookie.com/embed/gopOXnrTUHE" width="275"></iframe></td>
 		<td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			<ul>
 			<li>use Logo commands to draw shapes</li>
 			<li>incorporate <span class="hover vocab yui-wk-div" data-id="parameters">parameters</span> into my procedures</li>
 			<li>define my own procedures - my own abstractions - to draw more complex shapes</li>
 			</ul>
-			<div><b>Language Objectives:</b>&nbspI will be able to</div>
+			<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			<ul>
 			<li>explain how writing procedures manages the complexity of my program</li>
 			<li>explain why adding well-defined <span class="hover vocab yui-wk-div" data-id="parameters">parameters</span> makes procedures more abstract</li>

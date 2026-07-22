@@ -60,7 +60,7 @@ Introduction and Goals
     <iframe allowfullscreen="" frameborder="0" height="350" src="https://www.youtube.com/embed/U_Lg56Dvg2s" width="250"></iframe>
     </td>
     <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>describe the fundamentals of <span class="hover vocab yui-wk-div" data-id='cryptography'>cryptography</span>
 		<li>follow an instructor-led walkthrough to create an app that implements Caesar Cipher <span class="hover vocab yui-wk-div" data-id='encryption'>encryption</span> and <span class="hover vocab yui-wk-div" data-id='decryption'>decryption</span></li>
@@ -68,7 +68,7 @@ Introduction and Goals
 		<li>learn how to use a <span class="hover vocab yui-wk-div" data-id='function'>function</span></li>
 		<li>use parameters with both procedures and functions <span class="hover vocab yui-wk-div" data-id='function'>functions</span></li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>explain the difference between <span class="hover vocab yui-wk-div" data-id='local variables'>local</span> and global variables</li>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="encryption key">encryption key</span>, <span class="hover vocab yui-wk-div" data-id="encryption algorithm">encryption algorithm</span>, and <span class="hover vocab yui-wk-div" data-id="substitution cipher">substitution cipher</span> while describing app features and User Interface with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

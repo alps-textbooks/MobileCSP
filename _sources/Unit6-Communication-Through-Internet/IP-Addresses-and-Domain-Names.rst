@@ -46,11 +46,11 @@ Introduction and Goals
     <div id="bogus-div">
     <p></p>
     </div>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>describe how the <span class="hover vocab yui-wk-div" data-id='DNS'>DNS</span> works and helps users connect to web servers on the Internet</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="IP Address">IP Address</span>, <span class="hover vocab yui-wk-div" data-id="domain name">domain name</span>, and <span class="hover vocab yui-wk-div" data-id="DNS">DNS</span> while describing how networks connect, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

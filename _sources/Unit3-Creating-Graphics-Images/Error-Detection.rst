@@ -68,13 +68,13 @@ Introduction and Goals
 		(<a href="http://www.teachertube.com/video/mobile-csp-error-detection-card-trick-437874" target="_blank" title="">Teacher Tube version</a>)
         </td>
         <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
           <ul>
           <li>execute an algorithm to determine if, in a given binary sequence, a bit has been flipped</li>
           <li>understand the conditions under which a flipped bit can be detected and corrected</li>
           <li>explain the consequences of using bits to represent data</li>
           </ul>
-          <div><b>Language Objectives:</b>&nbspI will be able to</div>
+          <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
           <ul>
           <li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="parity">parity</span> and <span class="hover vocab yui-wk-div" data-id="parity bit">parity bit</span> while describing how errors in data can be detected, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
         </ul>

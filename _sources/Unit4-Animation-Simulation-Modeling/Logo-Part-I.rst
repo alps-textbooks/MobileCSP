@@ -43,13 +43,13 @@ Introduction and Goals
 			(<a href="http://www.teachertube.com/video/mobile-csp-logo-1-preview-438790" target="_blank">Teacher Tube version</a>)
 		</td>
 		<td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			  <ul>
 			  <li>use primitive <i>Logo</i> commands to draw simple shapes</li>
 			  <li>define procedures to simplify the drawing process</li>
 			  <li>use loops to replace repeated commands</li>
 			  </ul>
-			  <div><b>Language Objectives:</b>&nbspI will be able to</div>
+			  <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			  <ul>
 			  <li>discuss loops and procedures as abstractions that reduce the complexity of a program</li>
 			  <li>describe the functionality of an app using key vocabulary, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from previous lessons</li>

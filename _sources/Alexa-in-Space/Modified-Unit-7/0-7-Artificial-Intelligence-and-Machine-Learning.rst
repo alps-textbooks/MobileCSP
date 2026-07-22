@@ -38,13 +38,13 @@ Introduction and Goals
 
     <p>Artificial intelligence (AI) is sometimes described as getting a computer to do complex tasks that humans find easy.  Examples would be walking, seeing, and understanding speech.  These activities, which come naturally to us, are very difficult to develop traditional step-by-step algorithms for.</p>
     <p>But AI researchers have developed an approach known as <span class="hover vocab yui-wk-div" data-id='machine learning'>machine learning</span> that enables computers to perform these complex tasks.  With <span class="hover vocab yui-wk-div" data-id='machine learning'>machine learning</span> a computer <i>learns</i> how to perform a task or solve a problem not by being given a traditional program to solve the problem, but by being given lots of examples of correct and incorrect solutions to the problem.  </p> 
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>explain the basics of <span class="hover vocab yui-wk-div" data-id="machine learning">machine learning</span></li>
 	<li>identify aspects of every day life that use <span class="hover vocab yui-wk-div" data-id="artificial intelligence (AI)">AI</span></li>
 	<li>describe how computing innovations that use <span class="hover vocab yui-wk-div" data-id="machine learning">machine learning</span> have biases</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>explain how computing innovations that use <span class="hover vocab yui-wk-div" data-id="artificial intelligence (AI)">AI</span> can raise ethical concerns</li>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="neural network">neural network</span> while describing the beneficial and harmful effects of <span class="hover vocab yui-wk-div" data-id="artificial intelligence (AI)">AI</span>, with the support of concept definitions from this lesson</li>

@@ -45,14 +45,14 @@ Introduction and Goals
     <p>
 	<p>Binary numbers are used to represent all computer data. That is, everything is in 0s and 1s. In this lesson, we'll explore the <span class="hover vocab yui-wk-div" data-id='binary number system'>binary number system</span> and learn how to count in binary.
 	</p>
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
           <li>explain how data can be represented in <span class="hover vocab yui-wk-div" data-id='bit'>bits</span></li>
           <li>explain the consequences of using <span class="hover vocab yui-wk-div" data-id='bit'>bits</span> to store data</li>
           <li>calculate the <span class="hover vocab yui-wk-div" data-id='binary number system'>binary</span> (<span class="hover vocab yui-wk-div" data-id='base'>base</span> 2) equivalent of a positive integer (<span class="hover vocab yui-wk-div" data-id='base'>base</span> 10) and vice versa</li>
           <li>compare and order <span class="hover vocab yui-wk-div" data-id='binary number system'>binary</span> numbers</li>
        </ul>
-       <div><b>Language Objectives:</b>&nbspI will be able to</div>
+       <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
           <li>describe the reasons why computers use the <span class="hover vocab yui-wk-div" data-id='binary number system'>binary number system</span> using target vocabulary, supporting details and examples</li>
           <li>explain the steps for converting between the decimal and <span class="hover vocab yui-wk-div" data-id='binary number system'>binary number systems</span> using key vocabulary such as <span class="hover vocab yui-wk-div" data-id='binary number system'>binary</span>, and <span class="hover vocab yui-wk-div" data-id='positional number system'>positional number system</span> out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

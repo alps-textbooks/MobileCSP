@@ -48,12 +48,12 @@ Introduction and Goals
       electronic circuits.  We'll tak a first look "under the hood," so to speak, to see how computers 
       process binary information.
      </p>
-     <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+     <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
      <ul>
         <li>write expressions using logical operators</li>
         <li>evaluate expressions that use logic operators</li>
      </ul>
-     <div><b>Language Objectives:</b>&nbspI will be able to</div>
+     <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
      <ul>
         <li>describe varying levels of abstractions in hardware, including <span class="hover vocab yui-wk-div" data-id='logic gate'>logic gates</span> and <span class="hover vocab yui-wk-div" data-id='flip flop'>flip-flops</span> using target vocabulary, supporting details and examples</li>
         <li>explain <span class="hover vocab yui-wk-div" data-id='logic gate'>logic gates</span> using key vocabulary such as <span class="hover vocab yui-wk-div" data-id='OR gate'>OR gate</span>, <span class="hover vocab yui-wk-div" data-id='AND gate'>AND gate</span>, <span class="hover vocab yui-wk-div" data-id='NOT gate'>NOT gate</span>, <span class="hover vocab yui-wk-div" data-id='boolean'>Boolean</span>, and <span class="hover vocab yui-wk-div" data-id='flip flop'>flip flop</span>, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

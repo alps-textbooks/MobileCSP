@@ -68,13 +68,13 @@ Introduction and Goals
 	
     </p>
 	
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>perform <span class="hover vocab yui-wk-div" data-id='frequency analysis'>frequency analyses</span> to identify <span class="hover vocab yui-wk-div" data-id='substitution cipher'>substitution</span> and <span class="hover vocab yui-wk-div" data-id='transposition cipher'>transposition</span> ciphers</li>
 	<li>encrypt and decrypt messages using Vigenere Cipher</li>
 	<li>describe the <span class="hover vocab yui-wk-div" data-id='key exchange problem'>key exchange problem</span></li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>explain how <span class="hover vocab yui-wk-div" data-id='substitution cipher'>substitution ciphers</span> can be broken</li>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="frequency analysis">frequency analysis</span>, <span class="hover vocab yui-wk-div" data-id="polyalphabetic substitution">polyalphabetic substitution</span>, <span class="hover vocab yui-wk-div" data-id="one time pad">one time pad</span>, and <span class="hover vocab yui-wk-div" data-id="key exchange problem">key exchange problem</span> while describing symmetric encryption ciphers, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

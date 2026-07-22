@@ -44,13 +44,13 @@ Introduction and Goals
     <tr><td valign="top"><iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/b8Iix4MyLGM" width="275"></iframe>
     <br/>(<a href="" target="_blank">Teacher Tube version</a>)</td>
     <td valign="top">
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
 	   <li>Identify how Alexa’s <span class="hover vocab yui-wk-div" data-id="speech recognition">speech	recognition</span> works</li>
 	   <li>Create a new Alexa <span class="hover vocab yui-wk-div" data-id="skill">skill</span> using <span class="hover vocab yui-wk-div" data-id="intent">intents</span>, <span class="hover vocab yui-wk-div" data-id="utterances">utterances</span>, and <span class="hover vocab yui-wk-div" data-id="endpoint function">endpoint functions</span></li>
 	   <li>describe how computing innovations that use <span class="hover vocab yui-wk-div" data-id="artificial intelligence (AI)">AI</span> have biases</li>
        </ul>
-       <div><b>Language Objectives:</b>&nbspI will be able to</div>
+       <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
 		<li>Explain the impact of using AI</li>
 		<li>Describe how the Alexa <span class="hover vocab yui-wk-div" data-id="skill">skill</span> built in this lesson works by using target vocabulary such as <span class="hover vocab yui-wk-div" data-id="wake word">wake word</span>, <span class="hover vocab yui-wk-div" data-id="invocation">skill name/invocation</span>, <span class="hover vocab yui-wk-div" data-id="intent">intent</span>, <span class="hover vocab yui-wk-div" data-id="utterances">utterances</span>, and <span class="hover vocab yui-wk-div" data-id="endpoint function">endpoint function</span></li>

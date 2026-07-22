@@ -32,13 +32,13 @@ Introduction and Goals
 
     <p>
     <p>Computing innovations impact our lives in many ways that require considerable study and reflection for us to fully understand them. In this performance task, you will explore a citizen science computing innovation in preparation for exploring an innovation of your choosing. A computing innovation is an innovation that includes a computer or program code as an integral part of its functionality. Your close examination of this computing innovation will deepen your understanding of computer science principles.</p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>explain how people participate in problem-solving processes at scale</li>
 	<li>research the impact of a computing innovation on society, economy, and culture</li>
 	<li>describe how the use of computing innovations can raise legal, ethical, and privacy concerns</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="crowdsourcing">crowdsourcing</span> while describing the impact of citizen science apps, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

@@ -40,12 +40,12 @@ Introduction and Goals
     </ul>
     <img src="../_static/assets/img/parallel.png" width="60%"/>
 	<br/>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>compare <span class="hover vocab yui-wk-div" data-id='sequential computing'>sequential</span> and <span class="hover vocab yui-wk-div" data-id='parallel computing'>parallel</span> computing solutions</li>
 	<li>determine the efficiencies of <span class="hover vocab yui-wk-div" data-id='sequential computing'>sequential</span> and <span class="hover vocab yui-wk-div" data-id='parallel computing'>parallel</span> computing solutions</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="distributed computing">distributed computing</span> and <span class="hover vocab yui-wk-div" data-id="speedup">speedup</span> while describing the benefits and challenges of <span class="hover vocab yui-wk-div" data-id='parallel computing'>parallel computing</span> with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</ul>

@@ -55,7 +55,7 @@ Introduction and Goals
     <tr><td valign="top"><iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/pQ0zjP-VC2E" width="275"></iframe>
     <br/>(<a href="http://www.teachertube.com/video/358482" target="_blank">Teacher Tube version</a>)</td>
     <td valign="top">
-       <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+       <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
            <li>follow a tutorial to create the <i>I Have a Dream</i> app on a mobile device</li>
            <li>develop your understanding of what an MIT App Inventor <span class="hover vocab yui-wk-div" data-id="program">program</span> is</li>
@@ -63,7 +63,7 @@ Introduction and Goals
            <li>develop your understanding of event handlers</li>
 		   <li>identify elements of the <span class="hover vocab yui-wk-div" data-id="User Interface">user interface (UI)</span></li>
        </ul>
-       <div><b>Language Objectives:</b>&nbspI will be able to</div>
+       <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
        <ul>
           <li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id='Input'>input</span>, <span class="hover vocab yui-wk-div" data-id='Output'>output</span>, and <span class="hover vocab yui-wk-div" data-id='program function'>program function</span> while describing an app, its features, and user interface with the support of a word bank</li>
           <li>summarize <span class="hover vocab yui-wk-div" data-id='Event-driven Programming'>event-driven programming</span> for the portfolio reflection questions with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

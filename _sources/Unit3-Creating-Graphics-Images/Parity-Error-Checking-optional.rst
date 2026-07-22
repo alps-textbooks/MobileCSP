@@ -52,12 +52,12 @@ Introduction and Goals
     an extra bit, added to the data to allow us to detect if one of the data bits has been flipped
     from its original value.
     </p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>identify binary sequences with odd and even <span class="hover vocab yui-wk-div" data-id="parity">parity</span></li>
 		<li>detect errors in bit sequences that contain <span class="hover vocab yui-wk-div" data-id="parity bit">parity bits</span></li>
 		</ul>
-    <div><b>Language Objectives:</b>&nbspI will be able to</div>
+    <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="even parity">even parity</span>, <span class="hover vocab yui-wk-div" data-id="odd parity">odd parity</span>, and <span class="hover vocab yui-wk-div" data-id="parity bit">parity bit</span> while describing bit sequences and identifying errors, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 		</ul>

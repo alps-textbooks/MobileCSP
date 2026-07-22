@@ -48,7 +48,7 @@ Introduction and Goals
          (<span class="yui-non"><a href="https://www.teachertube.com/video/data-map-app-preview-476360" target="_blank">TeacherTube Version</a></span>)
         </td>
 		<td valign="top">   
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			<ul>
 			<li>read data from a file into an app</li>
 			<li>store data into and manipulate a list of lists</li>
@@ -56,7 +56,7 @@ Introduction and Goals
 			<li>use <span class="hover vocab yui-wk-div" data-id='GeoJSON'>GeoJSON</span> files to draw polygons on a map</li>
 			<li>use an <span class="hover vocab yui-wk-div" data-id='API'>API</span> to read in real-time weather data</li>			
 			</ul>
-			<div><b>Language Objectives:</b>&nbspI will be able to</div>
+			<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			<ul>
 			<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="JSON">JSON</span> and <span class="hover vocab yui-wk-div" data-id="API">API</span> while describing app features and User Interface with the support of concept definitions from this lesson</li>
 			</ul>

@@ -39,13 +39,13 @@ Introduction and Goals
     <p>
     <p>In lesson <a href="../unit?unit=26&amp;lesson=87" target="_blank">7.2 Big Data</a>, we investigated large data sets and how to process them. In this lesson, we will create our own data visualizations using charts in Google Sheets and maps using Google My Maps.
     </p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>describe what information can be extracted from data and metadata</li>
 	<li>identify how a visualization can be used to mislead the audience about its underlying data</li>
 	<li>use software to create visualizations</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>
 	<li>explain insights and knowledge gained from programs and visualizations that process data</li>
 	<li>use target vocabulary, such as data, metadata, and correlation while interpreting and creating visualizations, with the support of concept definitions from this lesson</li>

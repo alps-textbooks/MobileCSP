@@ -57,12 +57,12 @@ Introduction and Goals
              <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=19"><img src="../_static/assets/img/blowntobits.jpg" /></a>
          </td>
          <td style="padding-left:15px">        
-             <b>Learning Objectives:</b>&nbspI will learn to
+             <b>Learning Objectives:</b>&nbsp; I will learn to
              <ul>
              <li>explain how data can be represented using bits</li>
              <li>computing devices represent data digitally, meaning that the lowest-level components of any value are bits</li>
              </ul>
-             <b>Language Objectives:</b>&nbspI will be able to
+             <b>Language Objectives:</b>&nbsp; I will be able to
              <ul>
              <li>summarize important topics from Chapter 1 of Blown to Bits by identifying main ideas, details and important quotes</li>
              <li>describe how things around me use digital data using key vocabulary out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson.</li>

@@ -51,12 +51,12 @@ Introduction and Goals
 		<!-- (&lt;span class=&quot;yui-non&quot;&gt;TeacherTube Version&lt;/span&gt;)-->
 		</td>
 		<td valign=top>
-        <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+        <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>differentiate between synchronous and asynchronous operations</li>
 		<li>create an app using the CloudDB component to store data on the web so it can be shared by different users</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>describe and give examples of syncrhonous and asyncronous operations</li>
 		<li>describe how using a database helps reduce detail in an app</li>

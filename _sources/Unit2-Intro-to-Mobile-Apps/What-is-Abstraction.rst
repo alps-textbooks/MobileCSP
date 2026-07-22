@@ -41,11 +41,11 @@ Introduction and Goals
 
     <p>
     <p>An important concept and practice in Computer Science is <span class="hover vocab yui-wk-div" data-id='abstraction'>abstraction</span>. But what exactly <i>is</i> <span class="hover vocab yui-wk-div" data-id='abstraction'>abstraction</span>? This lesson is provides a quick introduction to this key concept.</p>
-    <div><b>Learning Objectives:</b>&nbspI will learn to</div>
+    <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
     <ul>
     <li>explain how <span class="hover vocab yui-wk-div" data-id='data'>data</span> can be represented using <span class="hover vocab yui-wk-div" data-id='bit'>bits</span></li>
     </ul>
-    <div><b>Language Objectives:</b>&nbspI will be able to</div>
+    <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
     <ul>
     <li>describe <span class="hover vocab yui-wk-div" data-id='abstraction'>abstractions</span> in computer science and in the real world using key vocabulary such as <span class="hover vocab yui-wk-div" data-id='procedural abstraction'>procedural abstraction</span> and <span class="hover vocab yui-wk-div" data-id='data abstraction'>data abstraction</span>, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy" target="_blank" title="">vocabulary notes</a> from this lesson.</li>
     </ul>

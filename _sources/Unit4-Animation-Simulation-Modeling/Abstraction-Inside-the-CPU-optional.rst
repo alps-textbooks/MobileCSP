@@ -51,12 +51,12 @@ Introduction and Goals
       operations that have to take place to focus the camera, gather and convert light rays into pixels and then into bits and then into 
       an image file on your device.  The App Inventor block hides all of that complexity. 
 	<p>
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>describe how abstractions in the <span class="hover vocab yui-wk-div" data-id="CPU">CPU</span> hide complexity and make a computer easier to use </li>
 		<li>explain in detail how the <span class="hover vocab yui-wk-div" data-id="CPU">CPU</span> executes the instrucitons of a program</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="machine language">machine language</span>, <span class="hover vocab yui-wk-div" data-id="fetch-execute cycle">fetch-execute cycle</span>, and <span class="hover vocab yui-wk-div" data-id="overflow error">overflow error</span> while describing abstractions within the <span class="hover vocab yui-wk-div" data-id="overflow error">CPU</span>, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 		</ul>

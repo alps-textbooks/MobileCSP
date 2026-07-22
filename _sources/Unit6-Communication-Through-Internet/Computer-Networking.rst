@@ -73,14 +73,14 @@ Introduction and Goals
     <p>This lesson provides a high-level overview of some of the Internet's and WWW's key concepts and terminology.   A follow-up lesson will go into greater detail in explaining how the Internet works.
     </p>
 	<p>
-	<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
 	<li>explain the fundamentals of how the Internet works</li>
 	<li>describe the client/server model of networking</li>
 	<li>explain how bandwidth and latency independently affect an internet connection</li>
 	<li>describe issues that contribute to the digital divide</li>
 	</ul>
-	<div><b>Language Objectives:</b>&nbspI will be able to</div>
+	<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 	<ul>	
 	<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="protocol">protocol</span>, <span class="hover vocab yui-wk-div" data-id="bandwidth">bandwidth</span>, <span class="hover vocab yui-wk-div" data-id="latency">latency</span>, and <span class="hover vocab yui-wk-div" data-id="digital divide">digital divide</span> while describing computer <span class="hover vocab yui-wk-div" data-id='network'>networks</span> and their effects on society, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 	</p>

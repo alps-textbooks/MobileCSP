@@ -59,7 +59,7 @@ Introduction and Goals
 			<iframe allowfullscreen="" frameborder="0" height="375" src="https://www.youtube.com/embed/YOGEBNeA8tA" width="275"></iframe>
 		</td>
 		<td valign="top">
-			<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 			<ul>
 			<li>create an artifact that uses randomness and simulates a <span class="hover vocab yui-wk-div" data-id='model'>model</span></li>
 			<li>create a simple <span class="hover vocab yui-wk-div" data-id='model'>model</span> of a coin flip</li>
@@ -67,7 +67,7 @@ Introduction and Goals
 			<li>use a conditional statement, <i>IF/Else</i>, to evaluate a variable and follow an algorithm based on the value of a variable</li>
 			<li>use a <i>For each number</i> loop to repeatedly simulate the flipping of the coin</li>
 			</ul>
-			<div><b>Language Objectives:</b>&nbspI will be able to</div>
+			<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 			<ul>
 			<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="model">model</span>, <span class="hover vocab yui-wk-div" data-id="random">random</span>, <span class="hover vocab yui-wk-div" data-id="random event">random event</span>, and <span class="hover vocab yui-wk-div" data-id="random number generator">random number generator</span> while describing app features and User Interface with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 			</ul>		

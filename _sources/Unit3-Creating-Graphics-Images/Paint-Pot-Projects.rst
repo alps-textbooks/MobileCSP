@@ -47,12 +47,12 @@ Introduction and Goals
     <iframe allowfullscreen="" frameborder="0" height="250" width="270" src="https://www.youtube.com/embed/2JIoJ-I3jH0"></iframe>
     </td>
     <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		  <ul>
           <li>program additional events into an existing mobile app</li>
           <li>solve simple programming problems</li>
           </ul>
-          <div><b>Language Objectives:</b>&nbspI will be able to</div>
+          <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
           <ul>
            <li>discuss errors in my program when I run my code, including how the errors could be fixed and tested</li>
 		   <li>describe the functionality of an app using key vocabulary such as component, event, and pseudocode, out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from previous lessons</li>       

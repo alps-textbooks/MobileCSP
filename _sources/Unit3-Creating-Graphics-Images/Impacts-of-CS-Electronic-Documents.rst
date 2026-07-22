@@ -67,13 +67,13 @@ Introduction and Goals
 			<img align="left" src="../_static/assets/img/blowntobits.jpg" height="190px" width="350"/></a>
         </td>
         <td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
           <ul>
           <li>describe digital models and their renderings as abstractions</li>
 		  <li>differentiate between data and metadata</li>
           <li>describe what information can be extracted from metadata</li>
           </ul>
-          <div><b>Language Objectives:</b>&nbspI will be able to</div>
+          <div><b>Language Objectives:</b>&nbsp; I will be able to</div>
           <ul>
 		  <li>discuss the beneficial and harmful effects of computing innovations</li>
           <li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="modeling">modeling</span>, and <span class="hover vocab yui-wk-div" data-id="render">render</span>, while discussing <span class="hover vocab yui-wk-div" data-id="digital">digital</span> models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>

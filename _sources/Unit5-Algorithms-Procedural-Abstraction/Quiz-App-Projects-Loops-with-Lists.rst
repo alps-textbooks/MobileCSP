@@ -55,14 +55,14 @@ Introduction and Goals
 		<iframe allowfullscreen="" frameborder="0" height="325" src="https://www.youtube.com/embed/1Mb_Hr8nqEU" width="275"></iframe>
     </td>
 	<td valign="top">
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>count right and wrong answers using a list to keep track of which questions have already been answered</li>
 		<li>use loops with lists and standard algorithms to enhance my app</li>
 		<li>manipulate lists in pseudocode using the insert, append, and length procedures</li>
 		<li>design and implement my own custom quiz app features</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="insert">insert</span>, <span class="hover vocab yui-wk-div" data-id="append">append</span>, and <span class="hover vocab yui-wk-div" data-id="length">length</span> while improving app features and User Interface with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
 		</ul>

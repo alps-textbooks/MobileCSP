@@ -44,13 +44,13 @@ Introduction and Goals
     <tr>
     <td><img alt="" class="yui-img" width="450px" height="200px" src="../_static/assets/img/CSPLogo.png" title=""/></td>
 	<td>
-		<div><b>Learning Objectives:</b>&nbspI will learn to</div>
+		<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 		<ul>
 		<li>understand how private information can be collected and exploited</li>
 		<li>consider how data is used in apps I write and how it needs to be protected</li>
 		<li>discuss ethical implications of data collection</li>
 		</ul>
-		<div><b>Language Objectives:</b>&nbspI will be able to</div>
+		<div><b>Language Objectives:</b>&nbsp; I will be able to</div>
 		<ul>
 		<li>identify and describe <span class="hover vocab yui-wk-div" data-id="Data Privacy">data privacy</span>, <span class="hover vocab yui-wk-div" data-id="Data Security">data security</span>, and <span class="hover vocab yui-wk-div" data-id="Data Storage">data storage</span> concerns of computing innovations</li>
 		<li>use target vocabulary, such as <span class="hover vocab yui-wk-div" data-id="Cookies">cookies</span> and <span class="hover vocab yui-wk-div" data-id="Personally Identifiable Information (PII)">Personally Identifiable Information (PTI)</span> while discussing privacy concerns, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1YsJJ7IwEEpQGLqSizFhIFJVIw5TfDc5LqDtCSD-o42E/copy" target="_blank" title="">vocabulary notes</a> from this lesson</li>
