@@ -1456,14 +1456,18 @@ Blockly.Quizme.giveFeedback = function(isCorrect, correctStr, mistakeStr, redo) 
       }
     }
 
-    var imgpath = Blockly.Quizme.imgpath;
+    // Resolve feedback icons against THIS frame's own URL: the feedback
+    // html is injected into the parent document, so a relative path would
+    // resolve against the parent page instead of the quizly directory this
+    // frame (and its media/) is served from.
+    var imgpath = new URL("media/", window.location.href).href;
     var correctMsg;
     var errMsg;
     if (ED_X) {
       imgpath = "https://course.mobilecsp.org/";
     }
-    correctMsg = "<img src="  + "." + imgpath + "smiley.jpg" + " > " + correctStr;
-    errMsg = "<img src="  + "." + imgpath + "frown.jpg" + " > " + mistakeStr;
+    correctMsg = "<img src=\""  + imgpath + "smiley.jpg\" > " + correctStr;
+    errMsg = "<img src=\""  + imgpath + "frown.jpg\" > " + mistakeStr;
 
     var result_html = maindocument.getElementById('quiz_result');
     
