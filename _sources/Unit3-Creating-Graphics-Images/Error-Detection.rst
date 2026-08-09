@@ -43,7 +43,7 @@ Introduction and Goals
 .. raw:: html
 
     <p>
-	<p>As we have learned from <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=23" target="_blank">Blown to Bits</a>, "everything is bits" -- i.e., all data are
+	<p>As we have learned from <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=75" target="_blank">Blown to Bits</a>, "everything is bits" -- i.e., all data are
       represented as binary 0s and 1s.
     </p>
     <p>Suppose your bank is doing an electronic funds transfer and one of the bits involved switches from 0 to 1 or vice versa? This is known as a <i><b>flipped bit</i></b>. It could 

@@ -54,7 +54,7 @@ Introduction and Goals
     <table><tbody>
       <tr>
          <td valign="top">             
-             <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=19"><img src="../_static/assets/img/blowntobits.jpg" /></a>
+             <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf"><img src="../_static/assets/img/blowntobits.jpg" /></a>
          </td>
          <td style="padding-left:15px">        
              <b>Learning Objectives:</b>&nbspI will learn to
@@ -79,7 +79,7 @@ Learning Activities
 
     
 	<ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
-	<li style="display: inline"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=19" target="_blank" title=""> Blown to Bits Chapter 1</a></li>
+	<li style="display: inline"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=4" target="_blank" title=""> Blown to Bits Chapter 1</a></li>
 	<li style="display: inline"> | </li>
 	<li style="display: inline"><a href="https://docs.google.com/document/d/1IiOfh052ziFDnYKTHA8gXjJvqHBfahLM5M0yQyM9lu8/copy" target="_blank" title=""> Double Entry Journal Sheet</a></li>
 	<li style="display: inline"> | </li>
@@ -90,7 +90,7 @@ Learning Activities
 	
 	
 	<p><h3>Chapter One: The Digital Explosion—Why Is It Happening and What Is At Stake?</h3>
-    <p><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=19" target="_blank">Chapter One of Blown to Bits</a> makes the point that today everything is digital -- that is, everything is represented by binary digits or bits. And it provides some provocative examples of the societal implications of this digital explosion.</p>
+    <p><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=4" target="_blank">Chapter One of Blown to Bits</a> makes the point that today everything is digital -- that is, everything is represented by binary digits or bits. And it provides some provocative examples of the societal implications of this digital explosion.</p>
     <p>Take a look around your classroom or room. Where can you see devices that use bits? Try to think beyond just your computers and mobile phones or tablets. For example, is the room's lightswitch on a timer or have a motion sensor? Here are <a href="https://docs.google.com/presentation/d/1rY94EKJPiqiGXd3XR2KIw8dSkz3psOFNADcI0JSR1wU" target="_blank">some examples</a> you can use to help you get started.</p>
     <br/>
   

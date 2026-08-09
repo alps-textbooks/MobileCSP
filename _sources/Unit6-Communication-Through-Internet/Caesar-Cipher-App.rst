@@ -298,7 +298,7 @@ Still Curious?
 .. raw:: html
 
     <p>
-    <p>Read more about the historical context of Caesar's <span class="hover vocab yui-wk-div" data-id='Cipher'>Cipher</span> in <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg.165).</p>
+    <p>Read more about the historical context of Caesar's <span class="hover vocab yui-wk-div" data-id='Cipher'>Cipher</span> in <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=163" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg.165).</p>
 
 
 Self-Check

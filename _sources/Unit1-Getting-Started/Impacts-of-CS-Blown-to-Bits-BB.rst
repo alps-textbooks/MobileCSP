@@ -23,7 +23,7 @@ Introduction and Goals
 .. raw:: html
 
 	<div class="gcb-lesson-content" data-question-batch-id="L70" data-scored="False">
-    <div class="yui-wk-div" style="width: 220px; float:left;"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=19" target="_blank">
+    <div class="yui-wk-div" style="width: 220px; float:left;"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf" target="_blank">
     <img src="../_static/assets/img/blowntobits.jpg" style="float:left;padding-right:0.5em;"/></a> </div>
     <div class="yui-wk-div" style="margin-left:220px;">
     <p>Computing has transformed our lives in so many ways. And mobile computing, where we are constantly connected to others and to the world via our mobile devices, is challenging us right now to come with new norms about privacy, security, the ownership or openness of data and information, and other issues. </p>
