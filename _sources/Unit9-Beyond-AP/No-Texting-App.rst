@@ -64,7 +64,7 @@ Tutorial
 
 .. raw:: html
 	
-	<p>To get started, <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit7/templates/NoTextingWhileBusy/NoTextingWhileBusy.asc" target="_blank">open App Inventor with the No Texting While Busy Template</a>
+	<p>To get started, <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit7/templates/NoTextingWhileBusy/NoTextingWhileBusy.asc" target="_blank">open App Inventor with the No Texting While Busy Template</a>
 	in a separate tab and follow along with the following tutorial.
 	
 	<br><br>

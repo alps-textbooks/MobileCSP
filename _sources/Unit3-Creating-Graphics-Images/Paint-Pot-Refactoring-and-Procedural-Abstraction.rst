@@ -85,7 +85,7 @@ Learning Activities
 
     <p><h3>Refactoring to Improve Code</h3>
     <p>
-      Open MIT App Inventor with the <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotRefactor/PaintPotRefactorTemplate.asc" target="_blank">Paint Pot Refactor template</a>  in a separate tab and follow 
+      Open MIT App Inventor with the <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotRefactor/PaintPotRefactorTemplate.asc" target="_blank">Paint Pot Refactor template</a>  in a separate tab and follow 
       along with the video tutorial.   After the project opens, use the Save As option to rename 
       your project PaintPotWithProcedure.</p>
     
@@ -224,14 +224,18 @@ Self-Check
 
     <br/>
     
-    .. quizly:: mscp-3-5-2
     
-        :quizname: quiz_proc_double
+.. quizly:: mscp-3-5-2
     
     
-    .. quizly:: mscp-3-5-3
+    :quizname: quiz_proc_double
     
-        :quizname: quiz_add_globals
+    
+    
+.. quizly:: mscp-3-5-3
+    
+    
+    :quizname: quiz_add_globals
     
     <br/><br/><br/>
     

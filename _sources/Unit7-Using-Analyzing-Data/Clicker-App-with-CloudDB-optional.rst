@@ -104,7 +104,7 @@ Learning Activities
     CloudDB stores two types of records, individual data items in variables or lists. In this app, we will only be using it to store individual data items. Note that the tags are case sensitive in a CloudDB. 
       
     </p><h3>Getting Ready</h3>
-    <p>Start App Inventor with <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/ClickerApp/ClickerWebDBtemplate.asc" target="_blank">Clicker App Template</a>.  Once the project opens use Save As to rename your project <i>ClickerCloudDB</i>. 
+    <p>Start App Inventor with <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/ClickerApp/ClickerWebDBtemplate.asc" target="_blank">Clicker App Template</a>.  Once the project opens use Save As to rename your project <i>ClickerCloudDB</i>. 
     </p>
     <p>
     Follow the video tutorial below or the <a href="https://drive.google.com/open?id=1ovmfYBEnTdLSD5JnVVEvmMrtJcONSaYdwLHgn6Rv-08" target="_blank">text version</a> or the <a href="https://docs.google.com/document/d/10wiCYVDcvVUsmBnTJWsIJicaOhAOZD8nsS-_Wh_oHd4/edit?usp=sharing" target="_blank">short handout</a> to complete this app.</p>

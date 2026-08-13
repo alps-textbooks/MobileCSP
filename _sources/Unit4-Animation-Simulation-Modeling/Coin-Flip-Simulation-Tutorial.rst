@@ -117,7 +117,7 @@ Learning Activities
     <tr><td>x = <span class="hover vocab yui-wk-div" data-id='random'>RANDOM</span>(1,3)</td> <td><img src="../_static/assets/img/setxtorandomint.png" width="350px"/></td></tr>
     </tbody></table>
     <h3>Tutorial Part I: Simulating a Coin Flip</h3>
-    <p>To get started, <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/CoinFlipMediaOnly/CoinFlipMediaOnly.asc" target="_blank">
+    <p>To get started, <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/CoinFlipMediaOnly/CoinFlipMediaOnly.asc" target="_blank">
     open App Inventor with the Coin Flip Media Only template</a>. If the template does not open, download the <a href="http://templates.appinventor.mit.edu/trincoll/csp/unit4/templates/CoinFlipMediaOnly/CoinFlipMediaOnly.aia" target="_blank">.aia file</a>, go to <a href="http://ai2.appinventor.mit.edu" target="_blank">App Inventor</a> and do File/Import and import in the downloaded .aia file.
      
     This will open a project that contains the images you will need in this lesson. Then use the <i>Projects --> Save Project As</i> option to rename your project to <i>CoinFlip</i>.  

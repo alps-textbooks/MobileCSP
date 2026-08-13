@@ -67,7 +67,7 @@ Tutorial or Basic Pong App
 	
 	<h3>Option 1: Build Pong from Scratch</h3>
 	
-	<p>To follow the video tutorials, open <a target="_blank" href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongStarter/PongStarter.asc">
+	<p>To follow the video tutorials, open <a target="_blank" href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongStarter/PongStarter.asc">
 	App Inventor</a> in a separate tab and then 
 	click on the top of the thumbnails to open each tutorial as full-screen videos. When finished with the basic app, add the enhancements listed after Option 2.
 	
@@ -164,7 +164,7 @@ Tutorial or Basic Pong App
 	
 	<p>To begin, open the <a target="_blank" href="https://docs.google.com/document/d/1_ay9VcKsaX7gYL-5XaVcSgPtMd_dch-PJOKD3tAnkRg">
 	notes for this lesson</a> in a separate tab.  Then open  
-	<a target="_blank" href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongBasic/PongBasic.asc">
+	<a target="_blank" href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongBasic/PongBasic.asc">
 	App Inventor with the Pong Basic template</a>. The notes provide an overview of 
 	the code for the Basic Pong app.
 	</p>

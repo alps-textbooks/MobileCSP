@@ -28,7 +28,7 @@ Learning Activities
 	<p>The activity for this lesson is to debug a version of 
 	the Pong program. There are at least <b>three errors</b> in 
 	this version of the Pong game. See if you can find them all! To get started, 
-	<a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongBasicWBugs/PongBasicWBugs.asc" target="_blank">open App Inventor with the Pong With Bugs template</a>. 
+	<a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/PongBasicWBugs/PongBasicWBugs.asc" target="_blank">open App Inventor with the Pong With Bugs template</a>. 
 	</p>
 	
 Self-Check

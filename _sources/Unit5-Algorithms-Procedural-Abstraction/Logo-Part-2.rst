@@ -225,7 +225,7 @@ Learning Activities
     <img src="../_static/assets/img/procedureCall.png" width="350"/>
     </p><h3>Tutorial: DrawSquare(L)</h3>
     <p>
-      To get started, <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/Logo2/Logo2Template.asc" target="_blank">open App Inventor with the Logo 2 Template</a> 
+      To get started, <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/Logo2/Logo2Template.asc" target="_blank">open App Inventor with the Logo 2 Template</a> 
       in a separate tab and follow along with these tutorials. If you are using iOS Companion, please change the Height property of the Canvas to Fill Parent so that it does not cover up the buttons. The following video previews the coding exercises 
       you'll be doing. You can also <a href="https://docs.google.com/document/d/1_iNgovLKL7ZCu8ZV2wDb6v5NZ9A7qXA_bNQ76gG3KQ8/edit?usp=sharing" target="_blank">click here</a> 
       to read the tutorial or for an additional challenge, use the <a href="https://docs.google.com/document/d/1tZeVSg6MijkG6hA6_irNuAGbd7jsvnmoLS428teCwvY/edit?usp=sharing" target="_blank">Short Handout</a>.

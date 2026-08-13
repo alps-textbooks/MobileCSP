@@ -69,7 +69,7 @@ Tutorial
 	</p>
 	
 	<p>To begin the lesson 
-	<a target="_blank" href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/Magic8BallTemplate/Magic8BallTemplate.asc">
+	<a target="_blank" href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/Magic8BallTemplate/Magic8BallTemplate.asc">
 	open App Inventor with the Magic 8 Ball template</a>. 
 	It provides the 
 	media you need for this project and a partial version of the User Interface.  
