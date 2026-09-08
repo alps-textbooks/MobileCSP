@@ -161,7 +161,7 @@ Tutorial
 
 .. raw:: html
 	
-	<p>To get started, <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit2/templates/WhereIsNorthTemplate/WhereIsNorthTemplate.asc" target="_blank">open App Inventor with the Where Is North Template</a>
+	<p>To get started, <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit2/templates/WhereIsNorthTemplate/WhereIsNorthTemplate.asc" target="_blank">open App Inventor with the Where Is North Template</a>
 	in a separate tab and follow along with the following video tutorial.
 	
 	

@@ -86,7 +86,7 @@ Learning Activities
 	<p><h3>Tutorial</h3>
     <p>
       To get started, open App Inventor with the 
-      <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/QuizApp/QuizAppTemplate.asc" target="_blank">Quiz App template</a> 
+      <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/QuizApp/QuizAppTemplate.asc" target="_blank">Quiz App template</a> 
       in a separate tab and follow along with the video tutorial, read the text tutorial, or for an extra challenge use just the short handout.
     </p>
     

@@ -69,7 +69,7 @@ Building the BroadcastHub app
 	<p>The Broadcast Hub app allows people to join the hub by texting or entering their contact information. Messages are broadcast to all members of the hub:</p>
 	<br><img src="../_static/assets/img/BroadcastHubConcept.png" width="300px">
 	
-	<p>To get started open <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit7/templates/BroadcastHub/BroadcastHubEmailTextTemplate.asc" target="blank">App Inventor with the new BroadcastHubEmailText Template</a>&nbsp;in a separate tab and follow along with the 
+	<p>To get started open <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit7/templates/BroadcastHub/BroadcastHubEmailTextTemplate.asc" target="blank">App Inventor with the new BroadcastHubEmailText Template</a>&nbsp;in a separate tab and follow along with the 
 	  <a target="_blank" href="https://docs.google.com/document/d/1Kl03xcvO15R8I25wQmOXdJfvvHKVnNt1onvz3YbGKnc/edit">revised text tutorial</a> 
 	  or the revised video below.
 	  <br><gcb-youtube videoid="https://youtu.be/Uj6v4zk469Q" instanceid="O2WUPSbQimCJ"></gcb-youtube>

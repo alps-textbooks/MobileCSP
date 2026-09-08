@@ -79,7 +79,7 @@ Incorporating TinyDb into Paint Pot
 .. raw:: html
 	
 	<p>To get started, click here to open App Inventor with the 
-	 <a target="_blank" href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotTinyDbTemplate/PaintPotTinyDbTemplate.asc">
+	 <a target="_blank" href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotTinyDbTemplate/PaintPotTinyDbTemplate.asc">
 	   PaintPotTinyDbTemplate</a>
 	 in a separate tab and follow along with the video tutorial.  Once the template project opens use Save As to rename your project <b><i>PaintPotTinyDb</i></b>. Note: If the blocks don’t appear well in the Blocks Editor, right-click on the background and use the Arrange Vertically option.</p>
 	<p>If you prefer, you can follow the <a target="_blank" href="https://docs.google.com/document/d/1yoF4jgL4NQd9_imMZtvDZpm506URCit0z3WyIGcstFU">text version of this lesson</a>.</p>

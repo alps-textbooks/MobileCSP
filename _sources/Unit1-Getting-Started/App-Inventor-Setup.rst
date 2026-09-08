@@ -51,7 +51,7 @@ Learning Activities
 
 	<h3>Testing Your Setup: Welcome App</h3>
 
-     <p>Click on the following <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/tutorials/aias/WelcomeApp.asc" target="_blank">App Inventor Template Welcome App</a> (we recommend using Chrome browser for this). This will open up in App Inventor. You will need to log in with your Google (or App Inventor) account that you will use for this course. An embedded tutorial on the left of this app will guide you through the setup directions. 
+     <p>Click on the following <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/tutorials/aias/WelcomeApp.asc" target="_blank">App Inventor Template Welcome App</a> (we recommend using Chrome browser for this). This will open up in App Inventor. You will need to log in with your Google (or App Inventor) account that you will use for this course. An embedded tutorial on the left of this app will guide you through the setup directions. 
      
 
      <p>When the project opens, you will be viewing the <i>App Inventor Designer</i>. The Designer is where you will design your app's <i>User Interface</i>.  The app you are testing has a button with an image (which displays on start up), a couple of labels that display text and a <i>Player</i> component that will play an applause sound.

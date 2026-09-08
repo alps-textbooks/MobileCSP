@@ -166,7 +166,7 @@ Learning Activities
     <p>
       For this lesson you can start up 
       <a href="http://ai2.appinventor.mit.edu" target="_blank">App Inventor</a> and open the project 
-      you created in the previous lesson.  <!-- Or, if you prefer, you can open App Inventor with the &lt;a target=&quot;_blank&quot; href=&quot;http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/QuizApp/QuizAppProjectsTemplate.asc&quot;&gt;Quiz App Projects Template&lt;/a&gt;.--> After opening your Quiz project, rename it <i>QuizProjects2</i>, for  
+      you created in the previous lesson.  <!-- Or, if you prefer, you can open App Inventor with the &lt;a target=&quot;_blank&quot; href=&quot;http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit6/templates/QuizApp/QuizAppProjectsTemplate.asc&quot;&gt;Quiz App Projects Template&lt;/a&gt;.--> After opening your Quiz project, rename it <i>QuizProjects2</i>, for  
       Quiz Version 2 -- or something similar to that.  Then complete the  programming exercises described below. 
     </p>
     <p></p>

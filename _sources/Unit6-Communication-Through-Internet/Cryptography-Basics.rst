@@ -275,7 +275,7 @@ Still Curious
 
     <p>
     <ul>
-    <li>Read more about the historical evolution of <span class="hover vocab yui-wk-div" data-id='cipher'>ciphers</span> in <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg. 166+)</li>
+    <li>Read more about the historical evolution of <span class="hover vocab yui-wk-div" data-id='cipher'>ciphers</span> in <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=163" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg. 166+)</li>
     <li>You can find more <span class="hover vocab yui-wk-div" data-id='cryptography'>cryptography</span> challenges at <a href="https://cryptoclub.org" target="_blank">CryptoClub.org</a>.</li>
     <li>Here is a crypto challenge game at <a href="https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction" target="_blank">Khan Academy</a>.</li>
     <li>If you want an additional challenge, try creating an app that does <i>Simple Substitution</i>. It will be similar to the Caesar Cipher App you made in Unit 5.  Or try incorporating an encryption scheme into one of your own apps. </li>

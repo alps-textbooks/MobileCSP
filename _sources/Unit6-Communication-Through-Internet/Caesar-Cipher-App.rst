@@ -214,7 +214,7 @@ Learning Activities
     </div>
 	<br/>
     <h3>Part II: Caesar Cipher App</h3>
-    <p>To get started click on this link to <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/CaesarApp/CaesarCipherTemplate.asc" target="_blank">open App Inventor and import the CaesarCipherTemplate</a>.   Use the <i>Save As</i> button to rename your project "CaesarCipherApp".</p>
+    <p>To get started click on this link to <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/CaesarApp/CaesarCipherTemplate.asc" target="_blank">open App Inventor and import the CaesarCipherTemplate</a>.   Use the <i>Save As</i> button to rename your project "CaesarCipherApp".</p>
     <p>You are provided with a template that sets up the environment for implementing Caesar <span class="hover vocab yui-wk-div" data-id='encryption'>encryption</span> and <span class="hover vocab yui-wk-div" data-id='decryption'>decryption</span>.  Your task will be to implement the <span class="hover vocab yui-wk-div" data-id='encryption'>encryption</span> <span class="hover vocab yui-wk-div" data-id='function'>function</span> following the tutorial and implement the  <span class="hover vocab yui-wk-div" data-id='decryption'>decryption</span> <span class="hover vocab yui-wk-div" data-id='function'>function</span> as an enhancement.</p>
     Programming constructs you will learn in building this app are
     <ul>
@@ -298,7 +298,7 @@ Still Curious?
 .. raw:: html
 
     <p>
-    <p>Read more about the historical context of Caesar's <span class="hover vocab yui-wk-div" data-id='Cipher'>Cipher</span> in <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg.165).</p>
+    <p>Read more about the historical context of Caesar's <span class="hover vocab yui-wk-div" data-id='Cipher'>Cipher</span> in <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=163" target="_blank">Chapter 5 of <i>Blown to Bits</i></a> (pg.165).</p>
 
 
 Self-Check

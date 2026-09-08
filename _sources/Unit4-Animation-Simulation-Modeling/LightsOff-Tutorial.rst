@@ -80,7 +80,7 @@ Learning Activities
 	</ul> 
 	
 	<p><h3>Tutorial</h3>
-    <p>To get started, open App Inventor with the<a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/LightsOffTemplate/TurnOffLightsTemplate.asc" target="_blank"> LightsOff Template</a> in a separate tab.  Rename the project to <i>LightsOff</i> or something similar. If the template does not open, download the <a href="http://templates.appinventor.mit.edu/trincoll/csp/unit4/templates/LightsOffTemplate/TurnOffLightsTemplate.aia" target="_blank">.aia file</a>, go to <a href="http://ai2.appinventor.mit.edu" target="_blank">App Inventor</a> and do File/Import and import in the downloaded .aia file.</p>
+    <p>To get started, open App Inventor with the<a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/LightsOffTemplate/TurnOffLightsTemplate.asc" target="_blank"> LightsOff Template</a> in a separate tab.  Rename the project to <i>LightsOff</i> or something similar. If the template does not open, download the <a href="http://templates.appinventor.mit.edu/trincoll/csp/unit4/templates/LightsOffTemplate/TurnOffLightsTemplate.aia" target="_blank">.aia file</a>, go to <a href="http://ai2.appinventor.mit.edu" target="_blank">App Inventor</a> and do File/Import and import in the downloaded .aia file.</p>
     <p>Follow along with your teacher or the video tutorial. Or, if you prefer, click on the <i>Text Version</i> button above to use the written version of the tutorial or use the <i>Short Handout</i> for more of a challenge.</p>
     
 .. youtube:: _zsR2gxFEhk

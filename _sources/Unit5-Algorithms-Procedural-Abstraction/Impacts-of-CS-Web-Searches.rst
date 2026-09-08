@@ -52,7 +52,7 @@ Introduction and Goals
 		</td>
       </tr>    
       <tr>
-        <td valign="top"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter4.pdf" target="_blank"><img class="yui-img" width="400" height="200" src="../_static/assets/img/blowntobits.jpg"/></a>
+        <td valign="top"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank"><img class="yui-img" width="400" height="200" src="../_static/assets/img/blowntobits.jpg"/></a>
         </td>
         <td valign="top">
 			<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
@@ -80,7 +80,7 @@ Learning Activities
 .. raw:: html
 
     <ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
-	<li style="display: inline"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter4.pdf" target="_blank" title="">Blown to Bits Chapter 4</a></li>
+	<li style="display: inline"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank" title="">Blown to Bits Chapter 4</a></li>
 	<li style="display: inline"> | </li>
 	<li style="display: inline"><a href="https://docs.google.com/document/d/1KeciRgqoa0KlNnWtYdAPibLHxINcp9qNsDxQzWCBajY/copy" target="_blank">K-W-L chart</a></li>
 	<li style="display: inline"> | </li>
@@ -98,7 +98,7 @@ Learning Activities
     <li>If you use another search engine besides Google, do you get the same results?</li>
     <li>Which search engine is "right"? Which is "better"?</li>
     </ul>
-    <p>Then watch the video below on the evolution of search and read the following sections of Chapter 4 of <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter4.pdf" target="_blank">Blown to Bits</a> and this page on <a href="https://www.nsf.gov/cise/csbytes/newsletter/vol1/pdf/vol1i1.pdf" target="_blank">Human Computation and Captchas</a>. As you watch and read, complete the Learned column of your K-W-L chart.</p>
+    <p>Then watch the video below on the evolution of search and read the following sections of Chapter 4 of <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank">Blown to Bits</a> and this page on <a href="https://www.nsf.gov/cise/csbytes/newsletter/vol1/pdf/vol1i1.pdf" target="_blank">Human Computation and Captchas</a>. As you watch and read, complete the Learned column of your K-W-L chart.</p>
     <ul>
     <li>Found After Seventy Years, pg. 109-110</li>
     <li>It Matters How It Works, pg. 120-138</li>

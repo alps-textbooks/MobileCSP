@@ -88,7 +88,7 @@ Learning Activities
 	</ul> 
 	
     <p><h3><br/>Tutorial Part 1: Painting and Drawing on a Canvas</h3>
-    <p>To get started, <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotMediaOnly/PaintPotMediaOnly.asc" target="_blank">open MIT App Inventor with the Paint Pot Template</a> in a separate tab and follow along with the following video or your teacher.
+    <p>To get started, <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotMediaOnly/PaintPotMediaOnly.asc" target="_blank">open MIT App Inventor with the Paint Pot Template</a> in a separate tab and follow along with the following video or your teacher.
     <br/>
     </p>
     

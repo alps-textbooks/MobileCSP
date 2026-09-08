@@ -63,7 +63,7 @@ Introduction and Goals
 		</td>
       </tr>    
       <tr>
-        <td valign="top"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=91" target="_blank">
+        <td valign="top"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf" target="_blank">
 			<img align="left" src="../_static/assets/img/blowntobits.jpg" height="190px" width="350"/></a>
         </td>
         <td valign="top">
@@ -91,7 +91,7 @@ Learning Activities
 .. raw:: html
 
     <ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
-	<li style="display: inline"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf" target="_blank" title=""> Blown to Bits Chapter 3</a></li>
+	<li style="display: inline"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=75" target="_blank" title=""> Blown to Bits Chapter 3</a></li>
 	<li style="display: inline"> | </li>
 	<li style="display: inline"><a href="https://docs.google.com/document/d/1g98QUiTnStaLyXbrNaStmqhGH1Wf1W3EQSd7G_sIi4s/copy" target="_blank" title=""> Conversation Questions Template</a></li>
 	<li style="display: inline"> | </li>
@@ -101,7 +101,7 @@ Learning Activities
 	</ul> 
 	
 	<p><h3>Chapter Three: Ghosts in the Machine: Secrets and Surprises of Electronic Documents</h3>
-    <p><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf">
+    <p><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=75">
     Chapter Three of Blown to Bits</a> describes how <span class="hover vocab yui-wk-div" data-id='digital'>digital</span> documents, 
     including images and sounds, are represented by sequences of bits. Why do you think this chapter is called "Ghosts in the Machine"?</p>
     <p>As you learned in the previous lesson and as shown in the this diagram, the first step in representing an image is to convert it into a sequence of bits.  This is known as <span class="hover vocab yui-wk-div" data-id='modeling'>modeling</span>. The model is an <i><b>abstract representation</b></i> of the original image.</p>

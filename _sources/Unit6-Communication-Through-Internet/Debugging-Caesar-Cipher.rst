@@ -88,7 +88,7 @@ Learning Activities
 	<p><h3>Activity</h3>
     <p>The activity for this lesson is to <span class="hover vocab yui-wk-div" data-id="debugging">debug</span> a version of the Caesar cipher app. There are at least <b>five errors</b> in 
     this version of the app. See if you can find and correct them all! To get started, 
-    <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/CaesarApp/CaesarCipherBuggy.asc" target="_blank">open App Inventor with the Caesar Cipher Buggy template</a>. 
+    <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit5/templates/CaesarApp/CaesarCipherBuggy.asc" target="_blank">open App Inventor with the Caesar Cipher Buggy template</a>. 
     </p>
     <p>Here are some hints and suggestions.
       </p><ul>
