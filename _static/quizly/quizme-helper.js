@@ -1335,15 +1335,23 @@ function renderQuiz(quizdata) {
   }
 
   // --- 4. UI UPDATES (Your original logic) ---
+  // Hoisted: the starter template below resolves against the same mappings,
+  // and it must not depend on whether the question element happened to exist.
+  var mappings = actualData.VariableMappings || [];
   var quizquestion = maindocument.getElementById('quiz_question');
   if (quizquestion) {
-    var mappings = actualData.VariableMappings || [];
     var html = actualData.QuestionHTML || actualData.Questionhtml || actualData.question_html || "";
     quizquestion.innerHTML = mapQuizVariables(Blockly.Quizme, html, mappings);  
   }
 
   // --- 5. RENDER ---
+  // The starter blocks carry the same $#STR1#$ / -9N.9 placeholders the
+  // question and the worked solution do, and both of those are resolved
+  // through the quiz's VariableMappings. Resolve the template too, or the
+  // reader is asked about `C` with initial value `172` and handed blocks
+  // still spelling the placeholder.
   var xmlText = actualData.Xmltemplate || actualData.xmltemplate || actualData.xml;
+  xmlText = mapQuizVariables(Blockly.Quizme, xmlText, mappings);
 // Force the instance to have the database the MIT code expects
 workspace.getComponentDatabase = function() { return dummyComponentDb; };
 workspace.getProcedureMap = function() { return dummyProcedureMap; };
