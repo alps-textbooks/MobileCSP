@@ -114,7 +114,7 @@ Still Curious?
     <p>Here's <a href="https://www.youtube.com/watch?v=zoR3wyiVzbY&amp;feature=youtu.be" target="_blank">a cool video made by two Googlers</a> that takes apart a Nexus 5 phone and explains what all the parts are. </p>
     <p>Here are some additional resources you might want to look at to learn more about how computer's work:</p>
     <ul>
-    <li><a href="http://www.gcflearnfree.org/computerbasics" target="_blank">Computer basics videos and lessons from GCFLearnFree.org</a> on
+    <li><a href="https://www.learnfree.org/series/computer-basics" target="_blank">Computer basics videos and lessons from GCFLearnFree.org</a> on
           <ul>
     <li>What is a computer?</li>
     <li>Understanding operating systems</li>

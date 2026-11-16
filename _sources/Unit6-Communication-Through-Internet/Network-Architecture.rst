@@ -235,12 +235,7 @@ Still Curious
     
     </li>
     <li><a href="https://www.youtube.com/watch?v=PBWhzz_Gn10" target="_blank">Warriors of the Net</a> is a classic 12 minute animated video about packets traveling through the Internet.</li>
-    <li>For a very detailed and comprehensive discussion of networking -- sort of
-    like reading a short book -- see the <a href="http://www.comptechdoc.org/independent/networking/guide/index.html" target="_blank">
-    CTDP's Networking Tutorial</a>, which covers the topic in much more detail than
-    we have done here.
-    
-    </li><li>Explore this <a href="https://www.telegeography.com/telecom-maps/submarine-cable-map/index.html" target="_blank"> map of the underwater cables</a> that carry 99% of international data.<a href="http://submarine-cable-map-2016.telegeography.com/" target="_blank">(2016 interactive version of map).</a>
+    <li>Explore this <a href="https://www.telegeography.com/telecom-maps/submarine-cable-map/index.html" target="_blank"> map of the underwater cables</a> that carry 99% of international data.<a href="http://submarine-cable-map-2016.telegeography.com/" target="_blank">(2016 interactive version of map).</a>
     </li>
     <li>Watch <a href="http://youtu.be/b56WwssMxZw" target="_blank">this video</a> that describes 
       how a hacker could view your data on a public network using a packet sniffer.</li></ul>
