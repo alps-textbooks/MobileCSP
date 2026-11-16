@@ -233,22 +233,11 @@ Learning Activities
     &lt;/li&gt;&lt;/ul&gt;
     -->
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious
 --------------
 .. raw:: html
 
     <ul>
-    <li><a href="https://web.archive.org/web/20211221232003/https://www.youtube.com/watch?v=ICJqv0TN6-c" target="_blank">This video</a> contains a very visual example of <span class="hover vocab yui-wk-div" data-id='bandwidth'>bandwidth</span> using balloons and pipes that you could even recreate in your classroom.</li>
     <li><a href="https://youtu.be/F1a-eMF9xdY" target="_blank">This video</a> compares <span class="hover vocab yui-wk-div" data-id='bandwidth'>bandwidth</span> to vehicles such as buses and race cars. It also explains <span class="hover vocab yui-wk-div" data-id='latency'>latency</span> concepts in terms of the speed of light and queues (lines).</li>
     </ul>
 

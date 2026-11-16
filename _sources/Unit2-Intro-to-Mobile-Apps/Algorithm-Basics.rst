@@ -53,7 +53,7 @@ Introduction and Goals
 
 .. raw:: html
 
-    <p>In <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Mazes-Algorithms-and-Programs.html" target="_blank">Lesson 1.2</a> we introduced the term <b><i><span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span></i></b> and defined it as a <u>step-by-step procedure</u> of <u>precise instructions</u> that performs some calculation or computation. Algorithms are at the heart of computer science. Algorithms, expressed in computer code and interpreted by the computer, are what make our computers such powerful and adaptable machines. An amazing fact that has been proved by computer scientists is that all algorithms can be constructed by using just these three control structures.  In other words, any <span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span> that you would like to write to solve a problem can be built by a combination of <span class="hover vocab yui-wk-div" data-id='sequence'>sequence</span>, <span class="hover vocab yui-wk-div" data-id='selection'>selection</span>, and <span class="hover vocab yui-wk-div" data-id='repetition'>repetition</span>.
+    <p>In Lesson 1.2 we introduced the term <b><i><span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span></i></b> and defined it as a <u>step-by-step procedure</u> of <u>precise instructions</u> that performs some calculation or computation. Algorithms are at the heart of computer science. Algorithms, expressed in computer code and interpreted by the computer, are what make our computers such powerful and adaptable machines. An amazing fact that has been proved by computer scientists is that all algorithms can be constructed by using just these three control structures.  In other words, any <span class="hover vocab yui-wk-div" data-id='algorithm'>algorithm</span> that you would like to write to solve a problem can be built by a combination of <span class="hover vocab yui-wk-div" data-id='sequence'>sequence</span>, <span class="hover vocab yui-wk-div" data-id='selection'>selection</span>, and <span class="hover vocab yui-wk-div" data-id='repetition'>repetition</span>.
 	</p>
     
     <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
@@ -119,9 +119,8 @@ Learning Activities
     <br/><br/>
     <div class="pogil yui-wk-div">
     <h3>POGIL Activity for the Classroom </h3>
-    <p>This course emphasizes communication and collaboration. You will do many group activities called POGIL Activities in this course, starting with the one below.   <a href="https://pogil.org/about-pogil/what-is-pogil" target="_blank">POGIL</a> stands for Process Oriented Guided Inquiry Learning. In POGIL activities, you will work in self-managed teams of 3 or 4 students where everyone has a role. You will explore an activity or solve a problem together, making sure that everyone in the team participates and learns. In order for these POGIL activities to be effective, each member must be willing to practice good interpersonal skills including communication, consensus building, conflict resolution, and negotiation.</p>
+    <p>This course emphasizes communication and collaboration. You will do many group activities called POGIL Activities in this course, starting with the one below.   POGIL stands for Process Oriented Guided Inquiry Learning. In POGIL activities, you will work in self-managed teams of 3 or 4 students where everyone has a role. You will explore an activity or solve a problem together, making sure that everyone in the team participates and learns. In order for these POGIL activities to be effective, each member must be willing to practice good interpersonal skills including communication, consensus building, conflict resolution, and negotiation.</p>
     <br/>Break into POGIL teams of 4 and assign each team member one of the following roles. Record your answers <a href="https://docs.google.com/document/d/1L_TAwm91lPJjIzwmAxNvbWqZNnNGzQuwx4YEt2TlWaQ/copy" target="_blank">using this worksheet</a>. 
-       <br/>Here's more information about <a href="https://docs.google.com/document/d/1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0/edit?usp=sharing" target="_blank">POGIL roles</a>.<br/>
     <table>
     <tbody><tr><th>Role</th><th>Responsibility</th></tr>
     <tr>
@@ -196,16 +195,6 @@ Learning Activities
     </div>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 

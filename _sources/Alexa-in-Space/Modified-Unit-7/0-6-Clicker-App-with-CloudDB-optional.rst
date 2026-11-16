@@ -79,7 +79,7 @@ Learning Activities
     <h3>Database Concepts: TinyDB vs.  CloudDBs</h3>
     <p>
       Before working on the app itself, it is important to understand what <i>CloudDB</i> is and how it differs from <i>TinyDB</i>.  As you know from a 
-      <a href="../Unit3-Creating-Graphics-Images/Map-Tour-With-TinyDB.html" target="_blank">previous lesson</a>, 
+      previous lesson (Map Tour with TinyDB), 
       we can use a TinyDB component to <i><b>persist</b></i> data.  TinyDB stores its data on the
       device itself—the phone or tablet—and access to the data is <i><b>synchronous</b></i>, 
       which means that access to the data is immediate. It's good for sharing data between uses of the app on the same device, but it is not good for sharing data among users on different devices.
@@ -144,17 +144,6 @@ Learning Activities
     <li style="padding-bottom:5px">Test with your group with one student using the teacher app and the rest using the corresponding student apps.</li>
     </ul> </li>
     </ol>
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
     
 
 Self-Check

@@ -29,7 +29,6 @@ ASSESSMENT: Non-AP Explore: Impact of Computing Innovation
 	 <style>   th, td { text-align: left; padding: 5px; border: 1px solid black;}</style> 
 	
 	<h3 id="est-length">Time Estimate: 3-4.5 hours (4-6 45 minute classes)</h3>
-	<p>[<a href="https://docs.google.com/document/d/1QxXT3ZBQwDIu5Nj608IOtGe6MtpVO3LCTqIHRaK_lRg" target="_blank">Text version available here</a>]</p>
 	<p><i>Note: make sure you've completed Lesson 6.10 on Crowdsourcing with Citizen Science Apps before starting the project.</i></p>
 	
 Introduction and Goals
@@ -45,7 +44,7 @@ Learning Activities
 
 .. raw:: html
 
-	<p>To find a computing innovation, you could look at current news articles for inspiration. Mobile CSP maintains a list at <a href="http://diigo.com/user/mobilecsp" target="_blank">diigo.com/user/mobilecsp</a>, tagged by topics in the CS Principles course. You should find at least 5 credible sources on your innovation. (<a href="https://www.commonsense.org/education/top-picks/most-reliable-and-credible-sources-for-students" target="_blank">Examples of credible sources</a> and <a href="https://www.commonsense.org/education/teaching-strategies/turn-students-into-fact-finding-web-detectives" target="_blank">fact-checking tips and tools</a>.) A reference list should be included with the project (e.g. at the end of a video, presentation, paper, part of a poster) and should follow standard formats such as MLA or APA specified by the instructor.</p>
+	<p>To find a computing innovation, you could look at current news articles for inspiration. You should find at least 5 credible sources on your innovation. (<a href="https://www.commonsense.org/education/top-picks/most-reliable-and-credible-sources-for-students" target="_blank">Examples of credible sources</a>.) A reference list should be included with the project (e.g. at the end of a video, presentation, paper, part of a poster) and should follow standard formats such as MLA or APA specified by the instructor.</p>
 	
 	<p>Write a paper or create a presentation, poster, or other artifact that answers the following questions about the computing innovation.</p>
 	<ol>

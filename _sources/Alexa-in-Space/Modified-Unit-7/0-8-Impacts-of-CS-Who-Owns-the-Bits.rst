@@ -85,7 +85,6 @@ Learning Activities
 		<li style="padding-bottom:5px"><b>Open source software:</b> programs that are made freely available and may be redistributed and modified</li>
  	    <li style="padding-bottom:5px"><b><span class="hover vocab yui-wk-div" data-id='open access'>Open access</span> materials </b>: online research output free of any and all restrictions on access and free of many restrictions on use, such as <span class="hover vocab yui-wk-div" data-id='copyright'>copyright</span> or license restrictions</li>
 	</ul>
-    <p>Before reading the chapter below, complete the <a href="https://docs.google.com/document/d/1YYyLFl7ZAwQ0QLITECVIDF7pY4W6UjmhXAijTt0QVF8" target="_blank">Anticipation Guide</a> and discuss with your classmates.</p>
     Here are some of the topics covered in the reading.
     <ul style="list-style-position: inside;">
     <li><span class="hover vocab yui-wk-div" data-id='copyright'>Copyright</span></li>
@@ -105,7 +104,7 @@ Learning Activities
     </tr>
     </tbody></table>
     <h3>Activity 2: Open Access Impacts on Science &amp; Innovation</h3>
-    Watch the video below, an interview on paywalls and <span class="hover vocab yui-wk-div" data-id='open access'>open access</span> with NIH (<a href="https://en.wikipedia.org/wiki/National_Institutes_of_Health" target="_blank">National Institutes of Health</a>) Director Francis Collins and inventor Jack Andraka. (Jack Andraka was mentioned in the chapter reading as having used the academic articles Aaron Swartz released in his reseach. <a href="http://www.vancouverobserver.com/world/how-aaron-swartz-paved-way-jack-andrakas-revolutionary-cancer-test" target="_blank">Read more here</a>.) After watching the video, discuss the following questions with your classmates.
+    Watch the video below, an interview on paywalls and <span class="hover vocab yui-wk-div" data-id='open access'>open access</span> with NIH (<a href="https://en.wikipedia.org/wiki/National_Institutes_of_Health" target="_blank">National Institutes of Health</a>) Director Francis Collins and inventor Jack Andraka. (Jack Andraka was mentioned in the chapter reading as having used the academic articles Aaron Swartz released in his reseach.) After watching the video, discuss the following questions with your classmates.
     <ul>
     <li style="padding-bottom:5px">Why was it important for Jack Andraka to have access to research articles? In what ways did he use the articles?</li>
     <li style="padding-bottom:5px">How does the NIH policy align with <span class="hover vocab yui-wk-div" data-id='open access'>Open Access</span> and <span class="hover vocab yui-wk-div" data-id='creative commons'>Creative Commons</span> licenses?</li>
@@ -113,16 +112,6 @@ Learning Activities
     </ul>
     <iframe allowfullscreen="" frameborder="0" height="480" mozallowfullscreen="" src="//commons.wikimedia.org/wiki/File:How_Open_Access_Empowered_a_16-Year-Old_to_Make_Cancer_Breakthrough.ogv?embedplayer=yes" webkitallowfullscreen="" width="854"></iframe>
     
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
 
 Still Curious?
 ---------------

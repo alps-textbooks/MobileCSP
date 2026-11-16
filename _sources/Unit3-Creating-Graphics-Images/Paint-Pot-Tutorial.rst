@@ -257,17 +257,6 @@ Learning Activities
     Some exercises involving AP <span class="hover vocab yui-wk-div" data-id='pseudocode'>pseudocode</span> for <span class="hover vocab yui-wk-div" data-id='assignment'>assignment</span> are below. More complex AP <span class="hover vocab yui-wk-div" data-id='pseudocode'>pseudocode</span> will be shown in Unit 4.
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
-
 Self-Check
 -----------
 

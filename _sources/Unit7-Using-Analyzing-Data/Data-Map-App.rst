@@ -116,7 +116,7 @@ Learning Activities
     <b>WebViewer:</b> Note the last column in the <a href="https://drive.google.com/open?id=1JbW50ohaUMmZl3h3fo4ntlxW5g8P8NCnuSoBbeCg3J8" target="_blank">data spreadsheet</a>, contains a url for more information about the state on the CDC site. Use a webviewer to display a url that joins the base url <a href="https://www.cdc.gov" target="_blank">https://www.cdc.gov</a> with the url in the last column (#8) when each state is clicked by using the <i>Map.FeatureClick</i> event handler.  To get the URL data, you can find the index of the state feature that is clicked by using an <a href="http://appinventor.mit.edu/explore/ai2/support/blocks/lists.html#indexinlist" target="_blank">Index in List block</a> with the feature that is clicked and the list <i>FeatureCollectionStates.Features</i>. Once you have this index, you can use it to select that state’s data from the global data list. Remember that this is a list of lists, so once you find the correct list of data for that state, you will need to use select again to find the URL data which is at index 8. 
       </li>
     <li style="margin-bottom: 5px;">
-    <b>Weather <span class="hover vocab yui-wk-div" data-id='API'>API</span> (Optional, requires registration to get a free <span class="hover vocab yui-wk-div" data-id='API'>API</span> key):</b> <a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank">APIs</a> can be used to read in real-time current data, for example the current weather report for a clicked state.  Read about the OpenWeatherMap <span class="hover vocab yui-wk-div" data-id='API'>API</span> here: <a href="https://openweathermap.org/current" target="_blank">https://openweathermap.org/current</a>. Try clicking on this example: <a href="https://samples.openweathermap.org/data/2.5/weather?q=London,uk&amp;appid=b6907d289e10d714a6e88b30761fae22" target="_blank">London Sample</a> to get the current weather data in <span class="hover vocab yui-wk-div" data-id='JSON'>JSON</span> format for London. OpenWeatherMap requires a registration key called appid. To get this free key, your instructor should follow the directions at  <a href="https://openweathermap.org/appid" target="_blank">https://openweathermap.org/appid</a> and then tell you the key, for example appid=8bb5e8bedfe6fe3f1a44e0a2c04b6540.
+    <b>Weather <span class="hover vocab yui-wk-div" data-id='API'>API</span> (Optional, requires registration to get a free <span class="hover vocab yui-wk-div" data-id='API'>API</span> key):</b> <a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank">APIs</a> can be used to read in real-time current data, for example the current weather report for a clicked state.  Read about the OpenWeatherMap <span class="hover vocab yui-wk-div" data-id='API'>API</span> here: <a href="https://openweathermap.org/current" target="_blank">https://openweathermap.org/current</a>. OpenWeatherMap requires a registration key called appid. To get this free key, your instructor should follow the directions at  <a href="https://openweathermap.org/appid" target="_blank">https://openweathermap.org/appid</a> and then tell you the key, for example appid=8bb5e8bedfe6fe3f1a44e0a2c04b6540.
         <br/><br/>To build the app, we need to build a url for each clicked state and pull out the main weather description.  To make an <span class="hover vocab yui-wk-div" data-id='API'>API</span> request, you will need a <a href="http://ai2.appinventor.mit.edu/reference/components/connectivity.html#Web" target="_blank">Connectivity/Web component</a> in your UI (this is different than the WebViewer component).
 		<ul>
 			<li style="margin-bottom: 5px;">Use a <i>Map.FeatureClick</i> event handler and set the Web.url to the <span class="hover vocab yui-wk-div" data-id='API'>API</span> url like <b>http://api.openweathermap.org/data/2.5/weather?q=<em>state</em>\&amp;appid=<em>yourAppId</em></b> using a join to put in the state name which is the title of the clicked feature (using an Any Feature Component) and the appid (<span class="hover vocab yui-wk-div" data-id='API'>API</span> key) that you got from your instructor (you can try the Mobile CSP one appid=8bb5e8bedfe6fe3f1a44e0a2c04b6540 but it may be blocked if too many people are using it).</li>
@@ -128,16 +128,6 @@ Learning Activities
     </li>
     </ol>
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious
 -------------
 .. raw:: html
@@ -146,7 +136,7 @@ Still Curious
     <li>
     If you are curious about other APIs, here’s a list of different public APIs that you can use in apps: <a href="https://github.com/toddmotto/public-apis">https://github.com/toddmotto/public-apis</a>.</li>
     <li>
-    Here is a great map visualization of <a href="https://native-land.ca/" target="_blank">Native Lands (https://native-land.ca/)</a> and an <a href="https://native-land.ca/api-docs/" target="_blank"><span class="hover vocab yui-wk-div" data-id='API'>API</span></a> to use it.</li>
+    Here is a great map visualization of <a href="https://native-land.ca/" target="_blank">Native Lands (https://native-land.ca/)</a>.</li>
     </ul>
 
 

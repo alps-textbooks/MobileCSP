@@ -165,7 +165,7 @@ Learning Activities
 	<h3>Enhancements</h3>
     <ol>
 	<li>Program an intent that acts as a reset command for Alexa to reset the totalCalorieIntake variable at the end of the day.</li>
-	<li>Since there are limited meal options available, space travelers might get bored and have a hard time selecting their breakfast meal. Create another intent as a random option where <a href="https://docs.google.com/document/d/14jWn8GyMpHwFdFqNbE4ZRc4rnXR_WtDsIai97U6TGwo/" target="_blank">Alexa will decide</a> on the breakfast meal to eat.</li>
+	<li>Since there are limited meal options available, space travelers might get bored and have a hard time selecting their breakfast meal. Create another intent as a random option where Alexa will decide on the breakfast meal to eat.</li>
 	<li>Looking back to your Eat Intent. If the user says they will eat a food item from the list of foods, that food item’s calories are added to the daily calorie eaten total. Test what happens when you respond with a food that is not in your food list. As is, if the user eats that food, it would not be counted toward their daily <span class="hover vocab yui-wk-div" data-id="calorie intake">calorie intake</span>. Modify your procedure to include selection (i.e. an if/else block) that would make your intent produce two possible outputs: one for food that is in the list and one for food not in the list. (Hint: the List drawer contains a block that can be used to check if an item is in a list.)</li>
 	<li>Right now the foods in the list are only breakfast options. Update your Options Intent to have a slot that listens for the meal the user wants to know food options for. Add in two more lists (one for lunch options and another for the corresponding lunch calories).</li>
 	<li>Program an intent with a slot for setting the daily calorie total for the user.</li>
@@ -179,17 +179,6 @@ Learning Activities
     <p></p>
     </div>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
@@ -198,7 +187,7 @@ Still Curious?
     <ul>
 	<li><a href="https://www.businessinsider.com/do-astronauts-age-slower-than-people-on-earth-2015-8" target="_blank">Do astronauts age differently than people on earth?</a></li>
 	<li><a href="https://www.scientificamerican.com/article/how-does-spending-prolong/" target="_blank">Prolonged effects of microgravity on astronauts</a></li>
-	<li>What do astronauts eat for breakfast? <a href="https://www.youtube.com/watch?v=AGR3FiEkBwA" target="_blank">Eat Like An Astronaut</a>; <a href="https://www.myrecipes.com/extracrispy/what-do-astronauts-eat-for-breakfast" target="_blank">Breakfast in Space</a></li>
+	<li>What do astronauts eat for breakfast? <a href="https://www.youtube.com/watch?v=AGR3FiEkBwA" target="_blank">Eat Like An Astronaut</a></li>
 	</ul>
     
 Self-Check
@@ -236,7 +225,7 @@ Self-Check
     </tbody></table>
 	
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
     
     <p>{ {insert self-check questions here} }</p>
 

@@ -128,17 +128,6 @@ Learning Activities
     <p></p>
     </div>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
@@ -184,7 +173,7 @@ Self-Check
     </tbody></table>
 	
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
     
 .. mchoice:: mcsp-alexa-3-1
     :random:

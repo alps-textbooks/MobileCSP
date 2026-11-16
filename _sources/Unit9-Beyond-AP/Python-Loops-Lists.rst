@@ -26,13 +26,13 @@ Python Loops
        # do something
 
 
-The following code will print out the numbers 1 to 10. Try it out by clicking the "Run" button. Click on the CodeLens button and then next to step through the code line by line and see the ``i`` variable change.
+The following code will print out the numbers 1 to 10. Try it out by clicking the "Run" button. Click on the CodeLens tab and then next to step through the code line by line and see the ``i`` variable change.
 
 .. activecode:: py-for-loop
     :language: python
     :autograde: unittest    
 
-    Run the following code. Then, change the range to print out the numbers 1 to 20. CLick on the *Show CodeLens* button and then click repeatedly on the *Next* button to see the value of the variable ``i`` change as the loop runs.
+    Run the following code. Then, change the range to print out the numbers 1 to 20. Click on the *CodeLens* tab and then click repeatedly on the *Next* button to see the value of the variable ``i`` change as the loop runs.
     ~~~~
     for i in range(1, 11):
         print(i)
@@ -184,7 +184,7 @@ The following code will print out each item in the list on a separate line.
    :practice: T
    :adaptive:
 
-   The following program should calculate and print the average of a list of numbers using a for loop. Start by initializing the variable ``sum`` and then create the list of numbers.  The blocks have been mixed up and include extra blocks that are not needed in the solution. Drag the needed blocks from the left and put them in the correct order on the right.  Click the *Check Me* button to check your solution.
+   The following program should calculate and print the average of a list of numbers using a for loop. Start by initializing the variable ``sum`` and then create the list of numbers.  The blocks have been mixed up and include extra blocks that are not needed in the solution. Drag the needed blocks from the left and put them in the correct order on the right.  Click the *Check* button to check your solution.
    -----
    sum = 0
    =====

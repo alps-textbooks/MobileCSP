@@ -87,16 +87,6 @@ Learning Activities
     <p> In this POGIL activity, you will analyze an app that determines membership in a club. Break into POGIL teams of 4 and assign each team member one of the POGIL roles.  Open this <a href="https://docs.google.com/document/d/1c1EeKdVzbUGiBGNa8GE3zamEd9-rBIpDyvQMJB4rXsM/copy" target="_blank">worksheet to complete this POGIL Activity</a>. You can make a copy of it with File/Make a Copy. Discuss the results with your class. </p>
 
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 

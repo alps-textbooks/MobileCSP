@@ -281,17 +281,6 @@ Learning Activities
     <li><b>Challenging (Optional) </b> Preserving the blank spaces between words makes it easier for Eve the eavesdropper to crack the encrypted message.  To make this more difficult, write a <span class="hover vocab yui-wk-div" data-id='function'>function</span> that will take a sentence and output the letters in four-letter blocks with all punctuation (i.e., all characters not in the <span class="hover vocab yui-wk-div" data-id='plaintext'>plaintext</span> alphabet) removed. For example, the <span class="hover vocab yui-wk-div" data-id='function'>function</span> would take  'this, is a test message!!' return '<b>this isat estm essa ge</b>'.</li>
     </ol>
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    </p>
-    
 Still Curious?
 ---------------
 

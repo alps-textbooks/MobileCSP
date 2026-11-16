@@ -84,8 +84,6 @@ Learning Activities
 	</ul>
 	<ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
 	<li style="display: inline"><a href="https://www.youtube.com/watch?v=7Wkubf1PrWg&feature=emb_imp_woyt" target="_blank">Slot Machine Video</a></li>
-	<li style="display: inline"> | </li>
-	<li style="display: inline"><a href="http://www-math.ucdenver.edu/~wcherowi/clockar.html" target="_blank">Exercises</a></li>
 	</ul> 
 	
 	<p><h3>Computer Randomness</h3>
@@ -297,9 +295,7 @@ Learning Activities
     </div>
 
 
-    <p></p><p>If you want to practice your <span class="hover vocab yui-wk-div" data-id='modular arithmetic'>modular arithmetic</span> before moving on, 
-    here are some 
-    <a href="http://www-math.ucdenver.edu/~wcherowi/clockar.html" target="_blank">nice exercises</a>, with links to the answers.</p>
+    <p></p>
     <h3>An Improved PRNG</h3><br/><br/>
 .. youtube:: FLdjrnXHajY
         :width: 650
@@ -331,17 +327,6 @@ Learning Activities
     </div>
 
     
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-   
 
 Still Curious?
 ---------------

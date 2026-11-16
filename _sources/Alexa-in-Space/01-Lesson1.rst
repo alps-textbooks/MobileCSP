@@ -164,14 +164,13 @@ Learning Activities
 	<p>Independently explore one of these two resources to learn more about <span class="hover vocab yui-wk-div" data-id="microgravity">microgravity</span> in space. Identify at least 2-3 ways that microgravity impacts daily life. Then, share what you learned with a shoulder partner.</p>
 	
 	<ul>
-	<li><a href="https://www.nasa.gov/audience/forstudents/k-4/stories/MicrogravityImageGallery.html" target="_blank">NASA Microgravity Image Gallery</a></li>
 	<li><a href="https://youtu.be/yqHiShYGkZQ " target="_blank">Microgravity Explained Video</a></li>
 	</ul>
 	
 	<h3>AI in Space</h3>
     <p>One way for humans to deal with the difficulties of space travel is to rely on AI platforms like Alexa for help. For the reasons mentioned in the previous activity, AI is uniquely suited to assisting space travelers in monitoring their equipment, health statistics, daily tasks, navigation and more. Each role, from Commander to Flight Engineer, Science Officer to individual space flight participants could benefit. <b>Maybe the best ways to use Alexa in space haven’t even been discovered yet…maybe that will be up to you! At the end of this unit, you’ll get the opportunity to develop your own Alexa skill!</b></p>
 
-	<p><a href="https://drive.google.com/file/d/1pnvRuDFg-RfVgIm_H6teWFFxi5vVX8Hl/view" target="_blank">Here</a> is just an idea about how AI could be used in space in the future! (<a href="https://docs.google.com/document/d/1bZuXdUXPrvLz_FuBCh4qiKnOTI0kuYDiBvQbh9oCGk4/" target="_blank">Audio transcript</a>)</p>
+	<p><a href="https://drive.google.com/file/d/1pnvRuDFg-RfVgIm_H6teWFFxi5vVX8Hl/view" target="_blank">Here</a> is just an idea about how AI could be used in space in the future!</p>
 
 .. raw:: html
 
@@ -187,28 +186,14 @@ Learning Activities
 	</p>
 
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
 .. raw:: html
 
     <ul>
-	<li><a href="https://web.njit.edu/~ronkowit/eliza.html" target="_blank">ELIZA was one of the first natural language processing programs.</a></li>
 	<li><a href="https://deepmind.com/" target="_blank">DeepMind</a> is a project run by Google and a team of engineers and computer scientists working to “help society find answers to some of the world’s most pressing and fundamental scientific challenges.</li>
-	<li><a href="https://www.lucidpix.com/10-examples-of-artificial-intelligence-in-our-everyday-lives/" target="_blank">Curious about AI in our everyday lives?</a></li>
 	<li>AI can be used for creating <a href="https://www.zdnet.com/article/nixons-grim-moon-disaster-speech-is-a-now-a-warning-about-the-deepfake-future/?ftag=TRE-03-10aaa6b&bhid=%7B%24external_id%7D&mid=%7B%24MESSAGE_ID%7D&cid=%7B%24contact_id%7D&eh=%7B%24CF_emailHash%7D" target="_blank">“deep fake” videos</a>, which can be confusing and misleading for those who are unaware that they are not real.</li>
-	<li>Build your own voice AI with <a href="https://wiki.almond.stanford.edu/" target=_blank">Stanford's Genie.</a></li>
 	</ul>
 	
     
@@ -235,7 +220,7 @@ Self-Check
     </tbody></table>
 	
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
 	
 .. mchoice:: mcsp-alexa-1-1
     :practice: T

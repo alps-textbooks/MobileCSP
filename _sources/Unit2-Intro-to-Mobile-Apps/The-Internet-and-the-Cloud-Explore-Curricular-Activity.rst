@@ -129,8 +129,8 @@ Learning Activities
     <div class="pogil yui-wk-div">
     <h3>POGIL Activity for the Classroom (25 minutes)</h3>
     <p>
-    </p><p>This course emphasizes communication and collaboration. You will do many group activities called POGIL Activities in this course, starting with the one below.   <a href="https://pogil.org/about-pogil/what-is-pogil" target="_blank">POGIL</a> stands for Process Oriented Guided Inquiry Learning. In POGIL activities, you will work in self-managed teams of 3 or 4 students where everyone has a role. You will explore an activity or solve a problem together, making sure that everyone in the team participates and learns. In order for these POGIL activities to be effective, each member must be willing to practice good interpersonal skills including communication, consensus building, conflict resolution, and negotiation.</p>
-    <p>To get started, break into POGIL teams of 4 and assign each team member one of the following roles (click here for more information about these <a href="https://docs.google.com/document/d/1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0/view" target="_blank">POGIL roles</a>). 
+    </p><p>This course emphasizes communication and collaboration. You will do many group activities called POGIL Activities in this course, starting with the one below.   POGIL stands for Process Oriented Guided Inquiry Learning. In POGIL activities, you will work in self-managed teams of 3 or 4 students where everyone has a role. You will explore an activity or solve a problem together, making sure that everyone in the team participates and learns. In order for these POGIL activities to be effective, each member must be willing to practice good interpersonal skills including communication, consensus building, conflict resolution, and negotiation.</p>
+    <p>To get started, break into POGIL teams of 4 and assign each team member one of the following roles. 
       
       </p><p>
     </p><table>
@@ -180,16 +180,6 @@ Learning Activities
     </div>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 
@@ -205,8 +195,7 @@ Still Curious?
 	-->
 	
     <li>Wikipedia pages on the <a href="http://en.wikipedia.org/wiki/Internet" target="_blank">Internet</a> 
-    and <a href="http://en.wikipedia.org/wiki/WWW" target="_blank">WWW</a> and the <a href="http://netforbeginners.about.com/od/i/f/What-Is-The-Internet.htm" target="_blank">
-    difference between the Internet and WWW</a>.</li>
+    and <a href="http://en.wikipedia.org/wiki/WWW" target="_blank">WWW</a>.</li>
     </ul>
 
 Self-Check

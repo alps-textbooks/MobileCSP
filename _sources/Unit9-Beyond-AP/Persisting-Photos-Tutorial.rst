@@ -82,8 +82,7 @@ Incorporating TinyDb into Paint Pot
 	 <a target="_blank" href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit3/templates/PaintPotTinyDbTemplate/PaintPotTinyDbTemplate.asc">
 	   PaintPotTinyDbTemplate</a>
 	 in a separate tab and follow along with the video tutorial.  Once the template project opens use Save As to rename your project <b><i>PaintPotTinyDb</i></b>. Note: If the blocks don’t appear well in the Blocks Editor, right-click on the background and use the Arrange Vertically option.</p>
-	<p>If you prefer, you can follow the <a target="_blank" href="https://docs.google.com/document/d/1yoF4jgL4NQd9_imMZtvDZpm506URCit0z3WyIGcstFU">text version of this lesson</a>.</p>
-	<gcb-youtube videoid="pMfuz6fYnJE" instanceid="2ivkTidNbS6R"></gcb-youtube>&nbsp;(<a>Teacher Tube version</a>)
+	<gcb-youtube videoid="pMfuz6fYnJE" instanceid="2ivkTidNbS6R"></gcb-youtube>
 	<br>
 	
 Lists
@@ -124,7 +123,7 @@ Creative Mini Projects
 	   some useful functions to use. 
 	 </li>
 	 
-	 <li>Add a <i><b>ListPicker</b></i> component to the app's user interface to let the user select the background image. Read more about the <a href="http://appinventor.mit.edu/explore/content/basic.html#ListPicker" target="_blank">Listpicker component here</a>. The ListPicker looks like a button but it displays a list of items to choose from. In its blocks, it has a <em>BeforePicking</em> and an <em>AfterPicking</em> event handler. One of the
+	 <li>Add a <i><b>ListPicker</b></i> component to the app's user interface to let the user select the background image. Read more about the <a href="https://ai2.appinventor.mit.edu/reference/components/userinterface.html#ListPicker" target="_blank">Listpicker component here</a>. The ListPicker looks like a button but it displays a list of items to choose from. In its blocks, it has a <em>BeforePicking</em> and an <em>AfterPicking</em> event handler. One of the
 	   ListPicker properties is the <i><b>Elements</b></i> property which is the list of choices shown to the user.  You can set this Elements property to your list of background photos in the <em>BeforePicking</em> event handler. Note that what will appear in the ListPicker are the file paths of the images, not the images themselves.
 	   There's no easy way around this. After the user has picked an element from the ListPicker, their choice will be in <em>ListPicker1.Selection</em> and can be put on the Canvas background. 
 	 </li>

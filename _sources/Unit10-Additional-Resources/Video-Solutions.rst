@@ -33,7 +33,7 @@ Documenting Your Code
 	 <img src="../_static/assets/img/Comment.png" width="500px" />
 	 <br />
 	 
-	(To add a comment to a block, right-click on the block.  This will bring up a menu of options. Select the <i>Add Comment</i> option. The comment will then be available to show or hide through the clickable question mark icon.  For additional help on how to add comments to your code, see <a target="_blank" href="https://mobilecsp-2017.appspot.com/mobilecsp/unit?unit=22&lesson=164">this lesson</a>.)
+	(To add a comment to a block, right-click on the block.  This will bring up a menu of options. Select the <i>Add Comment</i> option. The comment will then be available to show or hide through the clickable question mark icon.)
 	   
 	</p>
 	 
@@ -69,8 +69,6 @@ Solutions
 	 <li><a target="_blank" href="https://www.youtube.com/watch?v=EzNg4T80Yik">Logo Part II</a> 
 	 </li> 
 	 
-	 <li><a target="_blank" href="https://docs.google.com/document/d/16_X06XONPJOldkQdBXDdEN4_FGZvJfOGQ6TkQ39RCFg">Caesar cipher projects</a> 
-	 </li>  
 	 
 	   
 	 

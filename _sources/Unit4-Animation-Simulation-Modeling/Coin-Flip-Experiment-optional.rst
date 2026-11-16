@@ -134,7 +134,7 @@ Learning Activities
     </p>
     <h3>Download and Install the App</h3>
     
-    If you have an Android mobile device, use the AI Companion app (or a barcode scanner app like <a href="https://play.google.com/store/apps/details?id=com.google.zxing.client.android&amp;hl=en" target="_blank">ZXing Barcode Scanner</a>)  to scan this QR code to download and install the app directly 
+    If you have an Android mobile device, use the AI Companion app (or a barcode scanner app)  to scan this QR code to download and install the app directly 
     to your mobile device.  If you have an iOS device or are using the emulator, you will not be able to directly download and install an app, so download the 
     <a href="http://ai2a.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/CoinFlipExperiment/CoinFlipExperimentV1.asc">source .aia file</a> and import it into App Inventor and use the Connect/AI Companion to try it on your iOS device or Connect/Emulator. (Note: If you are having problems installing the app, you can use this <a href="http://www.shodor.org/interactivate/activities/Coin/" target="_blank" title="Coin Toss Simulator">Coin Toss Simulator</a> website. If your Internet connection is not very good, you could also install the app ahead of time or at home so that it's available even without Internet.)<br/>
     <img height="300px" src="../_static/assets/img/CoinFlipExperimentV1_2019QRCode.png"/>
@@ -207,23 +207,13 @@ Learning Activities
     </div>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 
 .. raw:: html
 
     <p>
-    <p>Hopefully this lesson has made you curious about how <span class="hover vocab yui-wk-div" data-id="PRNG">PRNGs</span> work.  If so, you should check out <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Pseudo-Random-Numbers.html" target="_blank" title="">this lesson</a>, which shows how to use some simple mathematics to create a <span class="hover vocab yui-wk-div" data-id="PRNG">PRNG</span>.</p>
+    <p>Hopefully this lesson has made you curious about how <span class="hover vocab yui-wk-div" data-id="PRNG">PRNGs</span> work.  If so, you should check out the Pseudo-Random Numbers lesson, which shows how to use some simple mathematics to create a <span class="hover vocab yui-wk-div" data-id="PRNG">PRNG</span>.</p>
 
 Self-Check
 -----------

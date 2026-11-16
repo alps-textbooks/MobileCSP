@@ -125,7 +125,7 @@ Learning Activities
     <ul>
     <li><span class="hover vocab yui-wk-div" data-id='Data Privacy'>Data Privacy</span> - assures that personal information (and sometimes corporate confidential information as well) are collected, processed (used), protected and destroyed legally and fairly.  </li>
     <li><span class="hover vocab yui-wk-div" data-id='Data Security'>Data Security</span></span> - controls access to personal information and protects against its unauthorized use and acquisition. </li>
-    <li><span class="hover vocab yui-wk-div" data-id='Data Storage'>Data Storage</span> - how you archive your data. The two types of storage are hard data (RAM, Hard Drive, flash drives, solid state) and remote data (cloud computing) - <a href="https://www.techopedia.com/definition/23342/data-storage" target="_blank" title="">Techopedia</a></li>
+    <li><span class="hover vocab yui-wk-div" data-id='Data Storage'>Data Storage</span> - how you archive your data. The two types of storage are hard data (RAM, Hard Drive, flash drives, solid state) and remote data (cloud computing)</li>
     </ul>
     <h3>Activity - Part 3: Collecting Data</h3>
     <p>The About My Info website (<a href="https://aboutmyinfo.org/" target="_blank" title="">aboutmyinfo.org</a>) asks for personal data to determine how easily identifiable someone is from their data. Data such as this is often used by doctors and schools. Explore the About My Info website and then explore the privacy policy for your favorite social media site. As you explore, record your findings and answer the questions on the <a href="https://docs.google.com/document/d/1hshcntNmNYY13DoWIX4bVZSiap7EM2XVeGjjysEcmUI/copy" target="_blank" title="">Collecting Data worksheet</a>.</p>
@@ -143,16 +143,6 @@ Learning Activities
     </p>
     <p>Read <a href="https://drive.google.com/open?id=1_4439HxJDBXbViBECySAQdRITEnSOPzs" target="_blank" title="">Chapter 2 of the updated Blown to Bits</a> to learn about some of the ways our electronic devices impinge on our privacy — some of the stories will surely surprise you. As you read the chapter, complete a <a href="https://docs.google.com/document/d/1IiOfh052ziFDnYKTHA8gXjJvqHBfahLM5M0yQyM9lu8/copy" target="_blank" title="">double entry journal sheet</a>. Once you've completed the chapter, discuss your journal entries with your class. You might want to read through the portfolio homework questions below for some key ideas to focus on.</p>
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>   
-
 Still Curious?
 ---------------
 
@@ -161,9 +151,9 @@ Still Curious?
     <p>
     <p>Read up on other ways that data is collected and used:</p>
     <ul>
-    <li><a href="http://www.teachingideas.co.uk/cookies-on-teaching-ideas" target="_blank">Learn more</a> about <span class="hover vocab yui-wk-div" data-id='cookies'>cookies</span> and how they are used to track you on the websites you visit. <a href="https://youtu.be/IPQhME1UYQU" target="_blank">This video</a> from <i>The Guardian</i> also does a nice job explaining how <span class="hover vocab yui-wk-div" data-id='cookies'>cookies</span> are used.</li>
+    <li>Learn more about <span class="hover vocab yui-wk-div" data-id='cookies'>cookies</span> and how they are used to track you on the websites you visit. <a href="https://youtu.be/IPQhME1UYQU" target="_blank">This video</a> from <i>The Guardian</i> also does a nice job explaining how <span class="hover vocab yui-wk-div" data-id='cookies'>cookies</span> are used.</li>
     <li><a href="https://vimeo.com/231446847" target="_blank">Learn more</a> about targeted web ads and adblockers.</li>
-    <li><a href="https://www.forbes.com/sites/metabrown/2015/12/28/voter-data-whats-public-whats-private/#6ee2d87b1591" target="_blank">Learn more</a> about voter data and what's private and public information. Here's an example of <a href="http://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target="_blank">Minnesota's public voter list</a> information and the <a href="http://voterlist.electproject.org/" target="_blank">US Election Project</a> has information on all 50 states.</li>
+    <li><a href="https://www.forbes.com/sites/metabrown/2015/12/28/voter-data-whats-public-whats-private/#6ee2d87b1591" target="_blank">Learn more</a> about voter data and what's private and public information. Here's an example of <a href="http://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target="_blank">Minnesota's public voter list</a> information.</li>
     <li>Snapchat's new SnapMap feature is of concern to many parents of children who may not understand how their information is being used. Read more about SnapMap and the privacy concerns it raises <a href="https://www.theguardian.com/technology/2017/jun/23/snapchat-maps-privacy-safety-concerns" target="_blank">from <i>The Guardian</i></a> and <a href="https://www.theverge.com/2017/6/23/15864552/snapchat-snap-map-privacy-threat" target="_blank">The Verge</a>.</li><li><span class="yui-non">Learn more about HIPAA by<span class="yui-non"> <a href="https://www.hhs.gov/hipaa/for-individuals/index.html" target="_blank" title="">reading here</a></span> and/or <a href="https://www.youtube.com/watch?list=PLACD9536723837201&amp;v=FKTHncn-5Vs" target="_blank" title="">watching this video</a>.</span></li><li><span class="yui-non">Learn more about FERPA by <a href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html" target="_blank" title="">reading here</a> and/or <a href="https://www.youtube.com/watch?v=1ZcU84pROa8" target="_blank" title="">watching this video</a>.</span></li>
     </ul>
    

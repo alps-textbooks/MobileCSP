@@ -150,16 +150,6 @@ POGIL Activity: Analyze an App for Bias
     You can make a copy of it with File/Make a Copy. Discuss the results with your class.
 
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 

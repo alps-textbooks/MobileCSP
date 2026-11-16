@@ -211,7 +211,7 @@ Learning Activities
     (App Not Responding) popup informing you that the app is not responding and
     giving you the option to "wait" or stop the app.  Choose "wait". It takes a while to generate all the numbers. 
     </li>
-    <li style="margin-bottom: 5px;"> Use  this <a href="https://docs.google.com/spreadsheets/d/1HR0hn2x8Lpc-KJRBJ_pE_auOYx-q2Ifi6YTplonijY4/copy" target="_blank">spreadsheet</a>  to enter the data and graph your results or use <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9NjNuaTZ5S0Z4OUE/edit?usp=sharing" target="_blank">empty graph paper</a>.  Put the data results and your graph in your portfolio.
+    <li style="margin-bottom: 5px;"> Use  this <a href="https://docs.google.com/spreadsheets/d/1HR0hn2x8Lpc-KJRBJ_pE_auOYx-q2Ifi6YTplonijY4/copy" target="_blank">spreadsheet</a>  to enter the data and graph your results or use <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9NjNuaTZ5S0Z4OUE/view?usp=sharing&resourcekey=0-dS_emJBX6wRgqg1pQ-y2TA" target="_blank">empty graph paper</a>.  Put the data results and your graph in your portfolio.
     </li>
     <li>Analyze your results to determine which algorithm is which. Which is the
     <i>bubble</i>, and which is the <i>merge</i>, and which is the
@@ -224,17 +224,6 @@ Learning Activities
     </td>
     </tr>
     </tbody></table>
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
     
 
 Self-Check

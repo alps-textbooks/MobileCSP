@@ -162,17 +162,6 @@ Learning Activities
     <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/Z4ceHVE_L_8?rel=0" width="500"></iframe>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
-
 Self-Check
 -----------
 

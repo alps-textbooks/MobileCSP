@@ -329,17 +329,6 @@ Learning Activities
     <div><p>Did you know that the Ancient Maya Civilization used a <span class="hover vocab yui-wk-div" data-id='base'>base</span> 20 number system with just 3 symbols for 0, 1, and 5? Try the <a href="https://maya.nmai.si.edu/maya-sun/maya-math-game?game=practice-1" target="_blank">Maya Math Game</a>. </p></div>
     <a href="https://maya.nmai.si.edu/maya-sun/maya-math-game?game=practice-1" target="_blank"> <img src="https://mayaarchaeologist.co.uk/wp-content/uploads/2016/12/Maya-Numbers-Codex-dresden44b.jpg" style="width:300px;margin-left:100px"/> </a>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
-
 Still Curious?
 ---------------
 

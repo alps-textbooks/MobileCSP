@@ -16,10 +16,9 @@ Resources
 	
 	<h3>Study Aids</h3>
 	<ul>
-		<li><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&lesson=168">CS Principles Quiz app</a> -- a study guide for the final or AP exams.</li>
+		<li>CS Principles Quiz app (Unit 8) -- a study guide for the final or AP exams.</li>
 		<li><a href="http://mobile-csp.org/quizly/">Quizly: Interactive App Inventor Quizzes</a></li>
 		<li><a href="https://mobile-csp.org/webapps/oneminutelessons.html">One Minute App Inventor Lessons</a></li>
-		<li><a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9azJYV2xDRldEYTQ">App Inventor Programming Drills</a></li>
 	</ul>
 	
 	<h3>App Inventor</h3>

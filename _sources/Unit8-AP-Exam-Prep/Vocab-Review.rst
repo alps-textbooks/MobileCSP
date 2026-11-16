@@ -50,11 +50,3 @@ AP CSP Vocabulary Review
 	</p>
 	
 	
-Vocabulary
-----------
-.. raw:: html
-
-	<p>The following table includes all the vocabulary from the Mobile CSP Course. Hover over a word to see the definition and test your knowledge.</p>
-	
-	<table align="center" id="genTable" border="">
-	</table>

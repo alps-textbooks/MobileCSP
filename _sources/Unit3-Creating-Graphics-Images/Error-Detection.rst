@@ -219,16 +219,6 @@ Learning Activities
     As you learned in the POGIL activity, the card "trick" is really not a magic trick at all. It is a very precise algorithm of error checking based on the concept of <span class="hover vocab yui-wk-div" data-id="parity">parity</span>. In mathematics, <span class="hover vocab yui-wk-div" data-id="parity">parity</span> refers to the evenness or oddness of a number. In the card trick, a <span class="hover vocab yui-wk-div" data-id="parity bit">parity bit</span> - which is a bit that is added as the leftmost bit of
     a bit string to ensure that the number of bits that are 1 in the bit string are <i>even</i> or <i>odd</i> - was added to each row and column such that the additional bit would make the row or column have an even number of 1 bits. It's important to realize that the <span class="hover vocab yui-wk-div" data-id="parity">parity</span> bit is not part of the data.  It is <i><b>redundant</b></i>, an extra bit, added to the data to allow us to detect if one of the data bits has been flipped from its original value.
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-
 Still Curious?
 ---------------
 
@@ -248,7 +238,7 @@ Still Curious?
     </p><p>If you want to learn more about this topic, here are a couple of 
     reading suggestions:</p>
     <ul>
-    <li><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Parity-Error-Checking-optional.html target="_blank">Mobile CSP Lesson 3.7 Parity Error Checking</a>
+    <li>Mobile CSP Lesson 3.7 Parity Error Checking
     </li><li><a href="http://en.wikipedia.org/wiki/Parity_bit" target="_blank">Parity bit</a>.
       </li><li><a href="https://www.youtube.com/watch?v=cBBTWcHkVVY" target="_blank">Nice video demonstration of error correction</a>.
       </li><li><a href="http://en.wikipedia.org/wiki/Error_detection_and_correction" target="_blank">Error detection and correction</a>.

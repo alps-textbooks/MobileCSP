@@ -83,7 +83,7 @@ Learning Activities
 	</ul> 
 	
 	<h3>Introduction</h3>
-    In the <a href="./unit?unit=23&amp;lesson=166" target="_blank">previous Logo lesson</a> 
+    In the previous Logo lesson 
     you developed algorithms for drawing simple shapes. 
     Drawing the shapes, especially the face shape, was difficult because the <i>abstraction</i>
     we were using – the set of Logo commands – was very weak and
@@ -348,17 +348,6 @@ Learning Activities
     &lt;br&gt;
     
     -->
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
     
 
 Self-Check

@@ -306,16 +306,6 @@ Learning Activities
     <p>To review all of the sort algorithms explained above, try taking a look through some animations of each sort. Go to <a href="http://www.sorting-algorithms.com/" target="_blank" title="">Sorting Algorithms Visualizations</a> or on <a href="https://visualgo.net/sorting" target="_blank">Visualgo</a>.</p>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 

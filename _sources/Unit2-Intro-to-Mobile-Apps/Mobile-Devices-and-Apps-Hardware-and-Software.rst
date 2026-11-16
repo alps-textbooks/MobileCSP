@@ -105,16 +105,6 @@ Learning Activities
        <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9THBxT1A1Vmw5TFk/view?usp=sharing&resourcekey=0-Y4nKZD_4ReOiTmGrMcrVoA" target="_blank">computer terms matching worksheet</a>.</p>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
- 
 Still Curious?
 ---------------
 

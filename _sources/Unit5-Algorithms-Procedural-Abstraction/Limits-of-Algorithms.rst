@@ -216,16 +216,6 @@ Learning Activities
     </div>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 
@@ -235,7 +225,6 @@ Still Curious?
     <ul>
    <li>Try the <a href="https://www.security.org/how-secure-is-my-password/" target="_blank">How secure is my password site.</a></li>
    <li>Check out the article <i><a href="https://www.wired.com/story/why-so-many-people-make-their-password-dragon/" target="_blank">Why So Many People Make Dragon Their Password</a></i> from Wired magazine.</li>
-	<li>Check out the article <i><a href="https://www.betterbuys.com/estimating-password-cracking-times/" target="_blank">Estimating Password Cracking Times</a></i> from Better Buys.</li>
     <li>Do some online research to explore alternatives to  passwords schemes -- for example, two-factor authentication, biometrics, virtual tokens.   What are their relative advantages and disadvantages?</li>
     <li>Here's an interactive shortest <a href="http://www.math.uwaterloo.ca/tsp/college/index.html" target="_blank">TSP tour to visit the top 647 colleges in the U.S.</a>.</li>
     <li>Here's a neat <a href="https://algorithms.discrete.ma.tum.de/graph-games/tsp-game/index_en.html">TSP Game</a> that uses maps in Europe and Africa.  You can use it to test the nearest neighbor heuristic, or to try to  come up with your own heuristic for finding good routes through the cities.</li>

@@ -133,17 +133,6 @@ Learning Activities
     </ol>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-    <div id="summarylist">
-    </div>
-    
-
 Self-Check
 -----------
 

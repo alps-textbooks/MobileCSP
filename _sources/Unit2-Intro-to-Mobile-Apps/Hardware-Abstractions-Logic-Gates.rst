@@ -101,7 +101,7 @@ Learning Activities
       <br/>
       NOTE: To create your own circuits you need go into Edit mode by clicking on the 
       little widget on the bottom left of the Live Example frame, as shown in the picture.
-      Then you can drag together components and put them together. If you do not see the Live Example, first click on the   Adobe Flash Player link and then click on allow Run Flash. 
+      Then you can drag together components and put them together. 
           
       
     </p><ul>
@@ -199,16 +199,6 @@ Learning Activities
     </li></ul>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 

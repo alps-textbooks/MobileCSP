@@ -73,8 +73,8 @@ Learning Activities
     <p>We live in the era of Big Data which refers to data sets that are too large to fit on a normal
           computer or be processed by a standard spreadsheet or database program. Large data sets are difficult to process using a single computer and may require parallel systems (multiple computers working together to run an algorithm). Scalability of systems is an important consideration when working with large data sets, as the computational capacity of a system affects how data sets can be processed and stored.
     </p>
-    <p>We will explore Big Data through a number of videos from the PBS documentary, The Human Face of Big Data. We will start with a short (2:31) video, <a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_numbers_everywhere/the-human-face-of-big-data-everything-is-quantifiable/" target="_blank" title="">Everything Is Quantifiable.</a></p>
-    <div class="yui-wk-div" style="text-align: center;"><a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_numbers_everywhere/the-human-face-of-big-data-everything-is-quantifiable/" target="_blank"><img alt="Everything is Quantifiable" class="yui-img" src="../_static/assets/img/HumanFaceofBigData_1Quantifiable.png" title="Everything is Quantifiable"/><br/></a></div>
+    <p>We will explore Big Data through a number of videos from the PBS documentary, The Human Face of Big Data. We will start with a short (2:31) video, Everything Is Quantifiable.</p>
+    <div class="yui-wk-div" style="text-align: center;"><img alt="Everything is Quantifiable" class="yui-img" src="../_static/assets/img/HumanFaceofBigData_1Quantifiable.png" title="Everything is Quantifiable"/><br/></div>
     <p><br/>
     </p>
 
@@ -160,9 +160,9 @@ Learning Activities
     </p>
     <div class="yui-wk-div" style="text-align: center;"><img alt="DIKW Pyramid" class="yui-img" src="https://live.staticflickr.com/4169/34764532445_e3883bd446_b.jpg" style="width: 450px; height: 255px;" title="DIKW Pyramid"/></div>
     <p> Data provide opportunities for identifying trends, making connections, and addressing problems. Computing enables new methods of deriving information from
-          data, driving monumental change across many disciplines — from art to business to science. Keep the DIKW pyramid in mind as you watch the short 3 minute video, <a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_word_births/the-human-face-of-big-data-aquiring-language/" target="_blank">Learning Revealed: Acquiring Language</a>. </p>
-    <div class="yui-wk-div" style="text-align: center;"><a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_word_births/the-human-face-of-big-data-aquiring-language/" target="_blank"><img alt="Acquiring Language" class="yui-img" src="../_static/assets/img/HumanFaceofBigData_2LearningRevealed.png"/><br/>
-    </a></div>
+          data, driving monumental change across many disciplines — from art to business to science. Keep the DIKW pyramid in mind as you watch the short 3 minute video, Learning Revealed: Acquiring Language. </p>
+    <div class="yui-wk-div" style="text-align: center;"><img alt="Acquiring Language" class="yui-img" src="../_static/assets/img/HumanFaceofBigData_2LearningRevealed.png"/><br/>
+    </div>
     <br/>
 	
 .. mchoice:: mcsp-7-2-4-copy
@@ -213,9 +213,9 @@ Learning Activities
     </p>
 	
 	<h3>Impacts of Big Data</h3>
-    <p>Careful analysis of data can help us solve many problems.  Watch the following 4-minute video to see how tracking data on <a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/" target="_blank">The Smallest Heartbeat</a> can help save a child's life. </p>
-    <div class="yui-wk-div" style="text-align: center;"><a href="https://wdse.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/" target="_blank"><img alt="Acquiring Language" class="yui-img" src="../_static/assets/img/The-smallest-heartbeat.png"/><br/>
-    </a></div>
+    <p>Careful analysis of data can help us solve many problems.  Watch the following 4-minute video to see how tracking data on The Smallest Heartbeat can help save a child's life. </p>
+    <div class="yui-wk-div" style="text-align: center;"><img alt="Acquiring Language" class="yui-img" src="../_static/assets/img/The-smallest-heartbeat.png"/><br/>
+    </div>
     
 
 	<h3>Bias in Data</h3>
@@ -303,25 +303,12 @@ Learning Activities
     <li><a href="http://en.wikipedia.org/wiki/Big_data" target="blank">Wikipedia Article on Big Data</a> </li>
     <li>Reddit maintains a <a href="http://www.reddit.com/r/dataisbeautiful/top/" target="blank">Data is Beautiful</a>
             site that has lots of visualizations of interesting data sets. Browse through that collection. </li>
-    <li>These <a href="https://think.cs.vt.edu/corgis/visualizer/index.html" target="_blank">data sets</a> allow you
+    <li>These <a href="https://corgis-edu.github.io/corgis/visualizer/" target="_blank">data sets</a> allow you
             to create visualizations with different types of graphs to explore the data.</li>
     <li>Here's a nice visualization of <a href="http://www.nytimes.com/interactive/2012/05/13/business/student-debt-at-colleges-and-universities.html?ref=tuition&amp;_r=2&amp;" target="blank">student debt</a> that was put together by the New York Times. </li>
-    <li>This is a nice <a href="http://evolutionofweb.appspot.com/#/growth/day" target="_blank">interactive
-              visualization</a> of how the Internet has grown and when various technologies have been introduced. </li>
     <li>NY Times <a href="https://www.nytimes.com/interactive/2017/01/18/world/how-much-warmer-was-your-city-in-2016.html#hfd" target="_blank"> How much warmer was your city in 2016? visualization</a></li>
     <li>NY Times <a href=" https://www.nytimes.com/interactive/2019/12/02/climate/air-pollution-compare-ar-ul.html" target="_blank"> Air Pollution in Cities visualization</a></li>
     </ul>
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
     
 
 Self-Check

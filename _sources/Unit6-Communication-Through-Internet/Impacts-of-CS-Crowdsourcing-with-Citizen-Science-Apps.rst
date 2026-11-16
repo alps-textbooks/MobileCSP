@@ -61,23 +61,13 @@ Learning Activities
     </ol>
     <p>After you’ve answered these questions, find a partner and share your apps and the answers to the questions. Was the purpose clear for the computing innovation? Can you suggest additional impacts or data?</p>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 
 .. raw:: html
 
     <p>
-    <p>Citizen science apps are just one example of <span class="hover vocab yui-wk-div" data-id='crowdsourcing'>crowdsourcing</span> in computer science. What are some other examples you can think of? Try exploring the list of articles related to computing on <a href="https://www.diigo.com/user/mobilecsp" target="_blank">diigo</a> for ideas.</p>
+    <p>Citizen science apps are just one example of <span class="hover vocab yui-wk-div" data-id='crowdsourcing'>crowdsourcing</span> in computer science. What are some other examples you can think of?</p>
 
 
 Self Check

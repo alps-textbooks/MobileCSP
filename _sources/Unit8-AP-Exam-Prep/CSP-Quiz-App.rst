@@ -37,7 +37,6 @@ A Study Tool for CS Principles
 	
 	  
 	  <p>Try the app using your computer or mobile device</p>
-	<p>(<a href="http://appinventor.trincoll.edu/csp/cspquiz/" target="_blank">Open in a separate window</a>)</p>
 	
 	  <!--
 	  <iframe src="https://docs.google.com/a/elms.edu/forms/d/e/1FAIpQLSdbg0LMlixepgtsVqIOXmLYAikkOkWmlFyP-0oxs4aqZWP1WQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

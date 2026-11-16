@@ -36,6 +36,6 @@ Explore Innovations Passage Questions (new)
     <li><a href="https://www.albert.io/learn/ap-computer-science-principles/passagebased-questions/data-not-collected-each-day-but-necessary-for-new-system-1" target="_blank">Albert.io Passage Based Questions</a></li>
     <li><a href="https://www.khanacademy.org/computing/ap-computer-science-principles/ap-csp-exam-preparation/x2d2f703b37b450a3:passage-based-questions/a/passage-based-question-format" target="_blank">Khan Academy Passage Based Questions</a></li>
     <li><a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf" target="_blank">The AP CSP Course and Exam Description (pages 165-7)</li>
-    <li>The AP Classroom practice questions and exams</li>
+    
     </ul>
 

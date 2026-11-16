@@ -59,11 +59,6 @@ Learning Activities
 
 .. raw:: html
 
-	<ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
-	<li style="display: inline"><a href="" target="_blank" title="">slides</a></li>
-	<li style="display: inline"> | </li>
-	<li style="display: inline"><a href="" target="_blank">video</a></li>
-	</ul> 
 	
     <p>
     <h3>Hook Activity</h3>
@@ -87,17 +82,6 @@ Learning Activities
     <p></p>
     </div>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
@@ -112,21 +96,8 @@ Self-Check
 .. raw:: html
 
     <p>
-    <h3>Vocabulary</h3>
-	<p>Here is a table of the technical terms we've introduced in this lesson. Hover over the terms to review the definitions.</p>
-    <table align="center">
-    <tbody><tr>
-    <td>
-    
-    <td>
-	
-
-    </td>
-    </tr>
-    </tbody></table>
-	
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
     
     
 
@@ -136,7 +107,6 @@ Reflection: For Your Portfolio
 .. raw:: html
 
     <p><div class="yui-wk-div" id="portfolio">
-    <p>Answer the following portfolio reflection questions as directed by your instructor. Questions are also available in this <a href="" target="_blank">Google Doc</a> where you may use File/Make a Copy to make your own editable copy.</p>
-    <div style="align-items:center;"><iframe class="portfolioQuestions" scrolling="yes" src="" style="height:30em;width:100%"></iframe></div>
+    <p>Answer the following portfolio reflection questions as directed by your instructor.</p>
     </div>
     </img></div>

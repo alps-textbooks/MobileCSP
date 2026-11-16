@@ -82,15 +82,13 @@ Learning Activities
     <ul align="center" style="list-style: none; margin: 0; padding: 0; background: lightgrey">
 	<li style="display: inline"><a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank" title="">Blown to Bits Chapter 4</a></li>
 	<li style="display: inline"> | </li>
-	<li style="display: inline"><a href="https://docs.google.com/document/d/1KeciRgqoa0KlNnWtYdAPibLHxINcp9qNsDxQzWCBajY/copy" target="_blank">K-W-L chart</a></li>
-	<li style="display: inline"> | </li>
 	<li style="display: inline"><a href="https://youtu.be/mTBShTwCnD4" target="_blank">YouTube video</a></li>
 	</ul> 
 	
 	<p><h3>Chapter 4: Needles in the Haystack — Google and Other Brokers in the Bits Bazaar</h3>
     <p>This chapter describes web searches and how searching is done. It focuses on Google and how the Google phenomenon has evolved and changed our lives. Some of the topics covered in the reading include how Google searches work, caching, the PageRank algorithm, bias in searches, and search trends.</p>
     <h3>Activity: K-W-L Chart</h3>
-    <p>Before reading the chapter, consider the following questions and complete the Know and Want columns of the <a href="https://docs.google.com/document/d/1KeciRgqoa0KlNnWtYdAPibLHxINcp9qNsDxQzWCBajY/edit?usp=sharing" target="_blank">K-W-L chart</a>. Share and discuss your responses with your classmates.</p>
+    <p>Before reading the chapter, consider the following questions and complete the Know and Want columns of a K-W-L chart. Share and discuss your responses with your classmates.</p>
     <ul style="list-style-position: inside;">
     <li>What do you notice about your own internet searches?</li>
     <li>What search engines have you tried?</li>
@@ -98,7 +96,7 @@ Learning Activities
     <li>If you use another search engine besides Google, do you get the same results?</li>
     <li>Which search engine is "right"? Which is "better"?</li>
     </ul>
-    <p>Then watch the video below on the evolution of search and read the following sections of Chapter 4 of <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank">Blown to Bits</a> and this page on <a href="https://www.nsf.gov/cise/csbytes/newsletter/vol1/pdf/vol1i1.pdf" target="_blank">Human Computation and Captchas</a>. As you watch and read, complete the Learned column of your K-W-L chart.</p>
+    <p>Then watch the video below on the evolution of search and read the following sections of Chapter 4 of <a href="https://www.niemanlab.org/pdfs/blowntobits.pdf#page=111" target="_blank">Blown to Bits</a>. As you watch and read, complete the Learned column of your K-W-L chart.</p>
     <ul>
     <li>Found After Seventy Years, pg. 109-110</li>
     <li>It Matters How It Works, pg. 120-138</li>
@@ -125,17 +123,6 @@ Learning Activities
     
     <!--&lt;div style=&quot;text-align: center&quot; class=&quot;yui-wk-div&quot;&gt;&lt;img src=&quot;https://ram8647.appspot.com/mobileCSP/assets/img/RankingImage.png&quot; align=&quot;center&quot; class=&quot;yui-img selected&quot;&gt;&lt;/div&gt;-->
     <!-- [Terms: nowcasting, big data, ...] -->
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
     
 
 Still Curious?

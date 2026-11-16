@@ -115,10 +115,6 @@ Summary
 
 .. raw:: html
 
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
     <h3>Technical Terminology</h3>
     Here is a table of the technical terms that were introduced in this lesson and that will be used throughout the course. 
     You will see tables such as this in many of the lessons.  If you hover over the term, its definition or description will

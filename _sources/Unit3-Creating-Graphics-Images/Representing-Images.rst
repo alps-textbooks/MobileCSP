@@ -84,8 +84,6 @@ Learning Activities
 	<li style="display: inline"><a href="https://docs.google.com/document/d/1AkIwOQLTU4_TonpRh3LEqoLMXWiVdZ4AiYf1y-qWIEI/copy" target="_blank">worksheet</a></li>
 	<li style="display: inline"> | </li>
 	<li style="display: inline"><a href="https://www.youtube.com/watch?v=xn3-BAiaJ1k" target="_blank">YouTube video</a></li>
-	<li style="display: inline"> | </li>
-	<li style="display: inline"><a href="" target="_blank" title="">TeacherTube video - coming soon</a></li>
 	</ul> 
 	
 	<div id="bogus-div">
@@ -193,17 +191,6 @@ Learning Activities
     </li>
     </ol>
     </div>
-    
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <p></p>
     
 Still Curious?
 ---------------

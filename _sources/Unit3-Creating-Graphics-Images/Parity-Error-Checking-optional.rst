@@ -115,16 +115,6 @@ Learning Activities
     </iframe>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-
 Still Curious?
 ---------------
 

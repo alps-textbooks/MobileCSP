@@ -99,7 +99,7 @@ Learning Activities
          Accelerometer Sensor</a> (Sensor drawer) to trigger Malcolm X's Text-to-Speech when the device is shaken. 
        </li>
     </ol>
-    <p>Need some help with the Text-to-Speech and Accelerometer? Try watching <a href="http://www.appinventor.org/content/howDoYou/eventHandling/shaking" target="_blank">this video</a> and then debugging your code.</p>
+    
     
 
 	<h3>A Sound Board Project</h3>
@@ -152,17 +152,6 @@ Learning Activities
     </li>
     <li>If your video mp4 file is too big, try uploading to a youtube channel and then click Manage to download as a much smaller mp4 file. </li>
     </ul>
-    
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
     
 
 Self-Check

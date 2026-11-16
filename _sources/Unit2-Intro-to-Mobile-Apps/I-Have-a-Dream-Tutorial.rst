@@ -120,17 +120,6 @@ Learning Activities
     Events are triggered when a key is pressed, a mouse is clicked, a <span class="hover vocab yui-wk-div" data-id="program">program</span> is started by another application, etc., and they supply input data to a <span class="hover vocab yui-wk-div" data-id="program">program</span> and trigger different blocks of code in the <span class="hover vocab yui-wk-div" data-id="program">program</span> that influence its behavior.  A <span class="hover vocab yui-wk-div" data-id="program">program</span> needs to work for a variety of inputs and situations!</p>
     
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
@@ -167,7 +156,7 @@ Self-Check
     </tr>
     </tbody></table>
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
     
 .. mchoice:: mcsp-2-2-1
     :random:

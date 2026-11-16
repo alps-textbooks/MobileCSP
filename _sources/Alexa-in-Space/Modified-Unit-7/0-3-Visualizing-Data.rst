@@ -37,7 +37,7 @@ Introduction and Goals
 .. raw:: html
 
     <p>
-    <p>In lesson <a href="../unit?unit=26&amp;lesson=87" target="_blank">7.2 Big Data</a>, we investigated large data sets and how to process them. In this lesson, we will create our own data visualizations using charts in Google Sheets and maps using Google My Maps.
+    <p>In the Big Data lesson, we investigated large data sets and how to process them. In this lesson, we will create our own data visualizations using charts in Google Sheets and maps using Google My Maps.
     </p>
 	<div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
 	<ul>
@@ -114,7 +114,7 @@ Learning Activities
     
     <p>You can also filter data to show only the data you need. Click on column E or any column that you want to filter, and then click on Data/Create a Filter or the filter funnel icon <img src="../_static/assets/img/filterIcon.png" width="20px"/> to turn on filtering. Click on the filter icon created in cell E1 and uncheck Blanks and male, to leave just the female values. Click on OK to see the filtered data. Turn off filtering by clicking on the filter funnel icon or from the Data menu to go back to seeing all the data. 
      
-        </p><p>To help, here’s a <a href="https://edu.gcfglobal.org/en/googlespreadsheets/sorting-and-filtering-data/1/" target="_blank">sorting and filtering tutorial</a>.
+        </p><p>
       </p></li>
     <li style="margin-bottom: 5px;"><b>Charts:</b> Let’s make a chart to visualize some of the data in this spreadsheet. 
     <ul>
@@ -159,22 +159,12 @@ Learning Activities
        </li><li>(<b>Portfolio</b>) Copy the link to your portfolio. Click on Preview to grab a screenshot of your map to put in your portfolio.
     </li></ol>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div id="summarylist">
-    </div>
-    
 Still Curious?
 ---------------
 
 .. raw:: html
 
-    <p>These <a href="https://think.cs.vt.edu/corgis/visualizer/index.html" target="_blank">Visualizer Data Sets</a> allow you to create visualizations of their data sets with different types of graphs.</p>
+    <p>These <a href="https://corgis-edu.github.io/corgis/visualizer/" target="_blank">Visualizer Data Sets</a> allow you to create visualizations of their data sets with different types of graphs.</p>
 
 
 Self-Check

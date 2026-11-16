@@ -215,16 +215,6 @@ Learning Activities
     </div>
 
 
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    
 Still Curious
 --------------
 .. raw:: html
@@ -232,7 +222,7 @@ Still Curious
     <ul>
     <li>Try <a href="https://www.hacksplaining.com/lessons" target="_blank">hacksplaining.com</a> which describe hacking exploits and how to protect against them.</li>
     <li>Try the <a href="https://www.pbs.org/wgbh/nova/labs/lab/cyber/" target="_blank">PBS Cybersecurity Lab</a> where you protect a business against attacks.</li>
-    <li>Try a Capture the Flag event where you solve computer security challenges to capture flags.  A great one for beginners is <a href="https://picoctf.com/" target="_blank">picoctf.com</a> designed for high school students. Here are some other  <a href="https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/" target="_blank">resources</a>.</li>
+    <li>Try a Capture the Flag event where you solve computer security challenges to capture flags.  A great one for beginners is <a href="https://picoctf.org/" target="_blank">picoCTF</a> designed for high school students. Here are some other  <a href="https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/" target="_blank">resources</a>.</li>
     <li>More Cybersecurity lessons available at <a href="https://teachingsecurity.org/">teachingsecurity.org</a></li>
     </ul>
 

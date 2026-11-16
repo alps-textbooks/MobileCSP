@@ -49,7 +49,7 @@ Introduction and Goals
     <p>
     <p>This lesson focuses on the modern cryptographic systems that are used to 
       secure the Internet.  For all of the ciphers discussed in the
-      <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=122" target="_blank" title="">Cryptography Basics</a>
+      Cryptography Basics
       lesson,  the same key was used both for encrypting and decrypting messages.  Systems 
       that use the same key for both encryption and decryption are called <span class="hover vocab yui-wk-div" data-id="symmetric cipher">symmetric cipher</span>.
     </p>
@@ -209,16 +209,6 @@ Learning Activities
 
     </p>
     
-
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
 
 Still Curious?
 ---------------

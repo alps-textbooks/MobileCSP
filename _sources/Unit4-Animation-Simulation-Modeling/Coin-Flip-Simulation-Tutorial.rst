@@ -158,7 +158,7 @@ Learning Activities
     </li>
     <li style="margin-bottom: 5px;"> <b>If/else Algorithm</b> You now have an app that can flip a two-sided coin. 
     Modify your app that so that it can flip a 
-    <a href="http://www.statisticool.com/3sided.htm" target="_blank">three-sided coin</a>. 
+    three-sided coin. 
     (Hint: You will need an if/else block with three conditions.   You’ll need a third image 
     for this problem; here’s one that is openly licensed: 
     <a href="../_static/assets/img/Coin-edge.gif" target="_blank">coin on edge</a>.)
@@ -189,16 +189,6 @@ Learning Activities
         :height: 415
         :align: center
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div><br/>
-
 Still Curious?
 ---------------
 

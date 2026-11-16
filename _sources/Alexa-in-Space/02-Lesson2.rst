@@ -42,7 +42,7 @@ Introduction and Goals
 	<p>When visiting space, travelers need to be able to personalize their AI to their own particular requests. The Good Morning Space tutorial guides you through the basic steps in creating a new Alexa <span class="hover vocab yui-wk-div" data-id="skill">skill</span>. You will also explore bias that could exist within the world of <span class="hover vocab yui-wk-div" data-id="speech recognition">speech	recognition</span>. 
     </p></td></tr>
     <tr><td valign="top"><iframe allowfullscreen="" frameborder="0" height="365" src="https://www.youtube.com/embed/b8Iix4MyLGM" width="275"></iframe>
-    <br/>(<a href="" target="_blank">Teacher Tube version</a>)</td>
+    </td>
     <td valign="top">
        <div><b>Learning Objectives:</b>&nbsp; I will learn to</div>
        <ul>
@@ -94,7 +94,7 @@ Learning Activities
 	</ul>
 	
 	<h4>ACTIVITY: Understanding Alexa Dialogue</h4>
-    <p>Before you build out an Alexa <span class="hover vocab yui-wk-div" data-id="skill">skill</span>, review this example of an <a href="https://docs.google.com/document/d/1Gg97OtfsyQlKI1d1mOC9W9q_fRDM0S-fKc75RQ0c6Kk/view" target="_blank">Alexa Dialogue</a> to get familiar with the interaction with Alexa in the tutorial. Here are some key words you should know for Alexa’s voice interaction using App Inventor:
+    <p>Before you build out an Alexa <span class="hover vocab yui-wk-div" data-id="skill">skill</span>, here are some key words you should know for Alexa’s voice interaction using App Inventor:
 	</p>
 
 	<ul>
@@ -161,17 +161,6 @@ Learning Activities
     <p></p>
     </div>
     
-Summary
---------
-
-.. raw:: html
-
-    <p>
-    In this lesson, you learned how to:
-      <div class="yui-wk-div" id="summarylist">
-    </div>
-    <br/>
-
 Still Curious?
 ---------------
 
@@ -182,7 +171,7 @@ Still Curious?
 	<li><a href="https://itchronicles.com/speech-to-text/speech-recognition-in-ai/" target="_blank">Speech Recognition in AI</a></li>
 	<li><a href="https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html" target="_blank">Dealing with Bias in Artificial Intelligence</a></li>
 	<li><a href="https://www.businessinsider.com/what-does-google-know-about-me-search-history-delete-2019-10" target="_blank">What does Google know about you</a> - investigate your own background info</li>
-	<li>Hello World is very commonly the first program that any programmer learns how to write! While the program you made for this lesson is modified for our space theme, you can find out more about the origins of Hello, World <a href="https://www.thesoftwareguild.com/blog/the-history-of-hello-world/" target="_blank">here</a>.</li>
+	<li>Hello World is very commonly the first program that any programmer learns how to write!</li>
 	<li><a href="https://www.codedbias.com/" target="_blank">Coded Bias Movie</a></li>
 	<li><a href="https://www.ted.com/talks/aicha_evans_your_self_driving_robotaxi_is_almost_here" target="_blank">Your self-driving robotaxi is almost here</a></li>
 	</ul>
@@ -216,7 +205,7 @@ Self-Check
     </tbody></table>
 	
     <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises. Please note that you should login if you want your answers saved and scored. In addition, some of these exercises will not work in Internet Explorer or Edge browsers. We recommend using Chrome.</p>
+    <p>Complete the following self-check exercises.</p>
 
 .. dragndrop:: mcsp-Alexa-2-1
     :feedback: Review the vocabulary and try again.
@@ -225,7 +214,7 @@ Self-Check
     :match_3: Anything the user says|||utterance
     :match_4: Contains the code for your intent|||endpoint function
 
-    Drag the definition from the left and drop it on the correct concept on the right.  Click the "Check Me" button to see if you are correct
+    Drag the definition from the left and drop it on the correct concept on the right.  Click the "Check" button to see if you are correct
 
 .. raw:: html
 
