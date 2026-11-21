@@ -224,10 +224,6 @@ Self-Check
     </tr>
     </tbody></table>
 	
-    <h3>Check Your Understanding</h3>
-    <p>Complete the following self-check exercises.</p>
-    
-    <p>{ {insert self-check questions here} }</p>
 
 Reflection: For Your Portfolio
 -------------------------------

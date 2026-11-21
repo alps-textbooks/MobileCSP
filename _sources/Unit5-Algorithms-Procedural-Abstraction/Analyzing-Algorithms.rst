@@ -482,7 +482,7 @@ Sample AP CSP Exam Question
     :feedback_d: 
     :correct: c
 
-    There are 32 students standing in a classroom. Two different algorithms are given for findingthe average height of the students.
+    There are 32 students standing in a classroom. Two different algorithms are given for finding the average height of the students.
     
     .. raw:: html
     	
@@ -495,7 +495,7 @@ Sample AP CSP Exam Question
     	<b>Algorithm B</b><br />
     	Step 1: All students stand.<br />
     	Step 2: Each student is given a card. Each student writes his or her height on the card.<br />
-    	Step 3: Standing students form random pairs at the same time. Each pair adds the numberswritten on their cards and writes the result on one student’s card; the other student isseated. The previous value on the card is erased.<br />
+    	Step 3: Standing students form random pairs at the same time. Each pair adds the numbers written on their cards and writes the result on one student’s card; the other student is seated. The previous value on the card is erased.<br />
     	Step 4: Repeat step 3 until one student remains standing.<br />
     	Step 5: The sum on the last student’s card is divided by 32. The result is given to the teacher.<br /><br />
     	Which of the following statements is true?

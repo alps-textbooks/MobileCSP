@@ -281,8 +281,8 @@ Self-Check
 
         <img class="yui-img" src="../_static/assets/img/buggyif.png"/> |blank|
 
-      :Tails: Don’t worry, it’s hard! Let’s go back and try it again...
     - :Heads: Correct!
+      :Tails: Don’t worry, it’s hard! Let’s go back and try it again...
       :x: This code segment is a bit strange.  It will always produce "Heads" because the random integer will always be 1.
 
 
@@ -296,13 +296,13 @@ Self-Check
 .. mchoice:: mcsp-4-5-4
     :random:
     :practice: T
-    :answer_a: A. 0
+    :answer_a: 0
     :feedback_a: 
-    :answer_b: B. 0.99
+    :answer_b: 0.99
     :feedback_b: 
-    :answer_c: C. 0.5
+    :answer_c: 0.5
     :feedback_c: 
-    :answer_d: D. 1
+    :answer_d: 1
     :feedback_d: That's right! The random-fraction block cannot generate the value 1.
     :correct: d
 
@@ -326,8 +326,8 @@ Self-Check
 
         <img class="yui-img" src="../_static/assets/img/buggyif2.png"/> |blank|
 
-      :Heads: If it were easy, you wouldn’t be learning anything!
     - :Tails: Correct!
+      :Heads: If it were easy, you wouldn’t be learning anything!
       :x: Try again.
 
 

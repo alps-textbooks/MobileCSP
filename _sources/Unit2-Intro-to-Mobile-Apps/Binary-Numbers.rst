@@ -235,8 +235,6 @@ Learning Activities
     <li>Try the following Binary Converter. In pairs, have one partner click on the binary digits below to create a binary number, and have the other partner figure out the number as a decimal number (click on the ? button to check your the answer). You can also use the paper binary converter tool at the bottom of the <a href="https://docs.google.com/document/d/10aNql-sT9f8-mKXAEBwA6vhpseB6WIzskWYFiRQYXy0/copy" target="_blank">binary/decimal worksheet</a> that you may have printed out in the last activity. Make sure it is printed double-sided and cut the 1's into tabs that can be flipped over to cover the 0's.
         <iframe height="400" instanceid="wGiqDDS5BAH1" src="https://mobile-csp.org/webapps/numbers/binaryConverter.html" title="" width="650"></iframe>
     </li>
-    <li>Use the algorithm described in the video with this interactive Khan Academy component to convert binary to decimal.<br/> 
-    </li>
     </ol>
     
 .. khanex:: khanex1
@@ -273,7 +271,6 @@ Learning Activities
     <iframe height="400" src="https://mobile-csp.org/webapps/numbers/binaryConverter.html" style="border: 0;" title="" width="650"></iframe></li>
     <li>Complete the first two columns in the second page of the  <a href="https://docs.google.com/document/d/10aNql-sT9f8-mKXAEBwA6vhpseB6WIzskWYFiRQYXy0/copy" target="_blank">binary/decimal worksheet</a> that you may have printed out in the last activity. (Skip over rows that do not have anything written in the decimal or binary columns. You will finish the hex column of this worksheet in the next section). If you print this out double-sided, you can cut the 1's into tabs and flip them over to create a paper binary converter tool to help you with your calculations.
         
-    </li><li>Use the algorithm described in the video with this interactive Khan Academy component to convert decimal to binary.<br/>
     </li>
     </ol>
     

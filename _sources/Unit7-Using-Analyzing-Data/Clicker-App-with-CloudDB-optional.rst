@@ -192,13 +192,13 @@ Self-Check
 .. mchoice:: mcsp-7-6-2
     :random:
     :practice: T
-    :answer_a: a. Data stored in a CloudDB can easily be shared with other devices and users. 
+    :answer_a: Data stored in a CloudDB can easily be shared with other devices and users. 
     :feedback_a: That's right! Data stored in a CloudDB is stored on the Web and that's why it can easily be shared with other devices or users.
-    :answer_b: b. Data stored in a CloudDB will persist between different uses of the app. 
+    :answer_b: Data stored in a CloudDB will persist between different uses of the app. 
     :feedback_b: That's right! Data stored in a CloudDB persists between uses of the app. 
-    :answer_c: c. Data stored in a CloudDB disappears when you quit the app. 
+    :answer_c: Data stored in a CloudDB disappears when you quit the app. 
     :feedback_c: No, data stored in a CloudDB persists between uses of the app so they do not disappear. 
-    :answer_d: d. Data stored in a CloudDB are stored on the Internet.
+    :answer_d: Data stored in a CloudDB are stored on the Internet.
     :feedback_d: Right.  Unlike TinyDB, which stores data on the mobile device, CloudDB data are stored on the Internet and downloaded into the app at run time. 
     :correct: a,b,d
 
@@ -216,13 +216,13 @@ Self-Check
 .. mchoice:: mcsp-7-6-3
     :random:
     :practice: T
-    :answer_a: a. Because data stored in a CloudDB is stored on the phone's hard drive.
+    :answer_a: Because data stored in a CloudDB is stored on the phone's hard drive.
     :feedback_a: We’re in the learning zone today. Mistakes are our friends!
-    :answer_b: b. Because data stored in a CloudDB can store bigger chunks of data.
+    :answer_b: Because data stored in a CloudDB can store bigger chunks of data.
     :feedback_b: We’re in the learning zone today. Mistakes are our friends!
-    :answer_c: c. Because CloudDB data are stored on the Web and retrieved over the Internet whereas TinyDb data are stored on the device.
+    :answer_c: Because CloudDB data are stored on the Web and retrieved over the Internet whereas TinyDb data are stored on the device.
     :feedback_c: Good. Because CloudDB data are stored on the Web, attempts to retrieve it depend on the availability of the Internet and other factors and may take considerable time. So an event handler is used to tell the app when the requested data has arrived. 
-    :answer_d: d. Because CloudDB data are stored in a complicated database whereas TinyDb data are stored in a simple database. 
+    :answer_d: Because CloudDB data are stored in a complicated database whereas TinyDb data are stored in a simple database. 
     :feedback_d: We’re in the learning zone today. Mistakes are our friends!
     :correct: c
 
@@ -242,13 +242,13 @@ Self-Check
 .. mchoice:: mcsp-7-6-4
     :random:
     :practice: T
-    :answer_a: a. When the data needs to persist between uses of the app.
+    :answer_a: When the data needs to persist between uses of the app.
     :feedback_a: Both, CloudDB and TinyDb are able to persist data between different uses of the app.  So this is not the best answer.
-    :answer_b: b. When the data needs to be shared among different devices running the app.
+    :answer_b: When the data needs to be shared among different devices running the app.
     :feedback_b: Right.  CloudDB store data on the Web and retrieve it over the Internet. So it can be shared among many devices.  TinyDb stores data on the device.  So it can't be shared among different devices. 
-    :answer_c: c. When you need to retrieve the data quickly. 
+    :answer_c: When you need to retrieve the data quickly. 
     :feedback_c: It is true that data stored on a TinyDb is retrieved instantaneously, which will always be faster than data retrieved asynchronously from a CloudDB. But we are talking about a difference of a few milliseconds, assuming the app has a reasonable Internet connection.  So this is not a main reason to choose between TinyDb and a Web-based database.
-    :answer_d: d. When you need to store lists of data.
+    :answer_d: When you need to store lists of data.
     :feedback_d: Both CloudDB and TinyDB can store lists of data.  So this is not a distinguishing feature. 
     :correct: b
 

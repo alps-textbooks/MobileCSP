@@ -158,15 +158,15 @@ Self-Check
 .. mchoice:: mcsp-3-9-1
     :random:
     :practice: T
-    :answer_a: a. Data stored in a TinyDb can easily be shared with other devices and users.
+    :answer_a: Data stored in a TinyDb can easily be shared with other devices and users.
     :feedback_a: This is challenging, but rewarding!
-    :answer_b: b. Data stored in a TinyDb will persist between different uses of the app.
+    :answer_b: Data stored in a TinyDb will persist between different uses of the app.
     :feedback_b: That's right! Data stored in a TinyDb persist between uses of the app, but these data are stored on the device (not in the cloud) and cannot be shared with other devices or users. A TinyDb can store strings or numbers or lists.
-    :answer_c: c. Data stored in a TinyDb disappears when you quit the app. 
+    :answer_c: Data stored in a TinyDb disappears when you quit the app. 
     :feedback_c: This is challenging, but rewarding!
-    :answer_d: d. Data stored in a TinyDb is stored in the cloud. 
+    :answer_d: Data stored in a TinyDb is stored in the cloud. 
     :feedback_d: This is challenging, but rewarding!
-    :answer_e: e. Only strings (text) can be stored in a TinyDb. 
+    :answer_e: Only strings (text) can be stored in a TinyDb. 
     :feedback_e: This is challenging, but rewarding!
     :correct: b
 
@@ -226,13 +226,13 @@ Self-Check
 .. mchoice:: mcsp-3-9-4
     :random:
     :practice: T
-    :answer_a: a. Because that would be a bad score. 
+    :answer_a: Because that would be a bad score. 
     :feedback_a: OK, so you didn’t get it right this time. Let’s look at this as an opportunity to learn.
-    :answer_b: b. Because that would be the value returned by TinyDb if nothing had yet been stored under the tag "highest". 
+    :answer_b: Because that would be the value returned by TinyDb if nothing had yet been stored under the tag "highest". 
     :feedback_b: Good. If TinyDb does not find anything in the Db under the tag "highest" it will return the empty string. This is how you check that TinyDb does contain a value for a given tag. 
-    :answer_c: c. Because TinyDb can only be used to store numbers, not strings. 
+    :answer_c: Because TinyDb can only be used to store numbers, not strings. 
     :feedback_c: OK, so you didn’t get it right this time. Let’s look at this as an opportunity to learn.
-    :answer_d: d. Because TinyDb returns an empty string whenever the network is not available. 
+    :answer_d: Because TinyDb returns an empty string whenever the network is not available. 
     :feedback_d: OK, so you didn’t get it right this time. Let’s look at this as an opportunity to learn.
     :correct: b
 

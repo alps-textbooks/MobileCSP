@@ -307,9 +307,9 @@ Self-Check
 .. mchoice:: mcsp-6-2-2
     :random:
     :practice: T
-    :answer_a: a. client
+    :answer_a: client
     :feedback_a: 
-    :answer_b: b. server
+    :answer_b: server
     :feedback_b: Of course it’s tough – school is here to makes our brains stronger!
     :correct: a
 
@@ -327,9 +327,9 @@ Self-Check
 .. mchoice:: mcsp-6-2-3
     :random:
     :practice: T
-    :answer_a: a. client
+    :answer_a: client
     :feedback_a: Of course it’s tough – school is here to makes our brains stronger!
-    :answer_b: b. server
+    :answer_b: server
     :feedback_b: 
     :correct: b
 

@@ -93,7 +93,7 @@ Sample Exam Questions
     :feedback_d: This sounds like a denial of service attack, not a phishing attack.
     :correct: c
 
-    AP 2021 Practice Question: A user purchased a new smart home device with embedded software andconnected the device to a home network. The user then registered the devicewith the manufacturer, setting up an account using a personal e-mail andpassword. Which of the following explains how a phishing attack could occuragainst the user of the smart home device?
+    AP 2021 Practice Question: A user purchased a new smart home device with embedded software and connected the device to a home network. The user then registered the device with the manufacturer, setting up an account using a personal e-mail and password. Which of the following explains how a phishing attack could occur against the user of the smart home device?
 
 
 .. raw:: html
@@ -743,7 +743,7 @@ Sample Exam Questions
     :feedback_d: 
     :correct: c
 
-    There are 32 students standing in a classroom. Two different algorithms are given for findingthe average height of the students.Algorithm AStep 1: All students stand.Step 2: A randomly selected student writes his or her height on a card and is seated.Step 3: A randomly selected standing student adds his or her height to the value on the card,records the new value on the card, and is seated. The previous value on the card is erased.Step 4: Repeat step 3 until no students remain standing.Step 5: The sum on the card is divided by 32. The result is given to the teacher.Algorithm BStep 1: All students stand.Step 2: Each student is given a card. Each student writes his or her height on the card.Step 3: Standing students form random pairs at the same time. Each pair adds the numberswritten on their cards and writes the result on one student’s card; the other student isseated. The previous value on the card is erased.Step 4: Repeat step 3 until one student remains standing.Step 5: The sum on the last student’s card is divided by 32. The result is given to the teacher.Which of the following statements is true?
+    There are 32 students standing in a classroom. Two different algorithms are given for finding the average height of the students.Algorithm AStep 1: All students stand.Step 2: A randomly selected student writes his or her height on a card and is seated.Step 3: A randomly selected standing student adds his or her height to the value on the card,records the new value on the card, and is seated. The previous value on the card is erased.Step 4: Repeat step 3 until no students remain standing.Step 5: The sum on the card is divided by 32. The result is given to the teacher.Algorithm BStep 1: All students stand.Step 2: Each student is given a card. Each student writes his or her height on the card.Step 3: Standing students form random pairs at the same time. Each pair adds the numbers written on their cards and writes the result on one student’s card; the other student is seated. The previous value on the card is erased.Step 4: Repeat step 3 until one student remains standing.Step 5: The sum on the last student’s card is divided by 32. The result is given to the teacher.Which of the following statements is true?
 
 
 .. raw:: html

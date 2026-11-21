@@ -346,7 +346,7 @@ Self-Check
 
     .. raw:: html
     
-    	<p><b>AP 2021 Practice Question</b>: A user purchased a new smart home device with embedded software andconnected the device to a home network. The user then registered the devicewith the manufacturer, setting up an account using a personal e-mail andpassword. Which of the following explains how a phishing attack could occuragainst the user of the smart home device?</p>
+    	<p><b>AP 2021 Practice Question</b>: A user purchased a new smart home device with embedded software and connected the device to a home network. The user then registered the device with the manufacturer, setting up an account using a personal e-mail and password. Which of the following explains how a phishing attack could occur against the user of the smart home device?</p>
 
 
 .. raw:: html

@@ -327,13 +327,13 @@ Self-Check
 .. mchoice:: mcsp-2-6-5
     :random:
     :practice: T
-    :answer_a: a. Cloud computing relieves users from having to backup their own data and information. 
+    :answer_a: Cloud computing relieves users from having to backup their own data and information. 
     :feedback_a: 
-    :answer_b: b. Cloud computing makes it easier to share information.
+    :answer_b: Cloud computing makes it easier to share information.
     :feedback_b: 
-    :answer_c: c. Information is stored on each user's computer. 
+    :answer_c: Information is stored on each user's computer. 
     :feedback_c: Try asking a classmate for advice—s/he may be able to explain/suggest some ideas or recommend some strategies.
-    :answer_d: d. Users can access information that is on the cloud from anywhere that has an Internet connection. 
+    :answer_d: Users can access information that is on the cloud from anywhere that has an Internet connection. 
     :feedback_d: 
     :correct: a,b,d
 

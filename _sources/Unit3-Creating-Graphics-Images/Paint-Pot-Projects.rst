@@ -364,11 +364,11 @@ Self-Check
     :practice: T
     :answer_a:  x = 1, y = 2, z = 3
     :feedback_a: 
-    :answer_b: (B) x = 1, y = 3, z = 2
+    :answer_b: x = 1, y = 3, z = 2
     :feedback_b: 
-    :answer_c: (C) x = 2, y = 3, z = 1
+    :answer_c: x = 2, y = 3, z = 1
     :feedback_c: 
-    :answer_d: (D) x = 3, y = 2, z = 1
+    :answer_d: x = 3, y = 2, z = 1
     :feedback_d: 
     :correct: d
 
